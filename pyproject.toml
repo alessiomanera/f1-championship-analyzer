@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "f1-championship-analyzer"
+version = "0.1.0"
+description = "Command-line tool that loads Formula 1 race history from CSV files and analyses championships."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "GPL-3.0-only"
+license-files = ["LICENSE"]
+authors = [
+    { name = "Alessio Manera" },
+    { name = "Simone Angelo Vasilescu" },
+    { name = "Alice Comino" },
+    { name = "Andrea Graziano Gitto" },
+    { name = "Francesco Domenico Saltarelli" },
+]
+# The core uses only the Python standard library (see AGENTS.md).
+dependencies = []
+
+[project.scripts]
+f1cli = "f1_championship_analyzer.cli:main"
+
+[tool.uv]
+# Everyone uses a uv at least as new as the one that wrote uv.lock.
+required-version = ">=0.13.7"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 99
+target-version = "py312"
+
+[tool.ruff.lint]
+# E/W: PEP 8 style, F: errors such as unused imports, I: import order, N: PEP 8 naming.
+select = ["E", "W", "F", "I", "N"]
+
+[dependency-groups]
+dev = [
+    "pytest==9.2.0",
+    "ruff==0.17.6",
+]
