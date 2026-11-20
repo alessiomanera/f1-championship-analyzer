@@ -9,7 +9,7 @@ Every task and idea for the project, grouped by course requirement. Day-to-day s
 - [x] Kanban project board
 - [x] Branch workflow (`feature/*` into `testing` into `main`) and protection on `main`
 - [x] Team docs: `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, issue and pull request templates
-- [ ] Labels and GitHub milestones for the five course requirements
+- [x] Labels and GitHub milestones for the five course requirements
 - [ ] Every member merges at least one reviewed pull request
 
 ## Data source (issues #1 and #3)
