@@ -35,9 +35,9 @@ The course asks for little code that applies each week's technique well. Prefer 
 ## Current state
 
 - **Goal:** deliver the five course requirements, then a visual layer for exploring race and championship trends.
-- **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates), package skeleton (`f1_championship_analyzer`, `f1cli` with `--help` and `--version`), CI on Windows, macOS and Linux (required on `main` and `testing`), shared VS Code settings, GitHub milestones R1 to R5 (one per course requirement) and area labels on every issue.
+- **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates), package skeleton (#12/PR #13 merged into `testing`), Jolpica data (#3/PR #14, 14 tables, merged into `testing`), multi-OS CI passing on Windows, macOS, Linux, shared Google Doc tabs ("Team meeting brief" and "GIT WORKFLOW"), personal cheat sheet in `_PERSONAL/CHEAT_SHEET.md`.
 - **Data source (decided 2026-11-20):** the Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>, download at <https://api.jolpi.ca/data/dumps/download/>), licensed CC BY-NC-SA 4.0. It uses Jolpica's own table layout (`formula_one_*.csv`), not the old Ergast files; links and details are in `README.md`.
-- **In review:** #13 (package skeleton) and #14 (Jolpica data in `data/`, 14 tables, with `data/README.md`); each needs one teammate approval.
-- **Next:** team meeting to agree the code layers (`data/`, `models/`, `services/`, `cli.py`) and the function names between them, the work split, and the data selection; then assign the issues, merge #13 and #14 and release `v0.1.0` from `testing` to `main`.
-- **Open decisions:** how the team splits the work (the module split in the Google Doc plan is a draft, not agreed); which tables and seasons to keep; visual layer framework.
-- **Last updated:** 2026-11-20.
+- **In review:** PR #15 (`chore/prepare-v0.1.0` -> `testing`), all CI checks passed, auto-merge enabled waiting on 1 teammate review.
+- **Next:** once PR #15 merges, open release PR `testing` -> `main`, review and merge with teammates during the team meeting, tag `v0.1.0`; agree code layers and assign issues #1 to #10.
+- **Open decisions:** how the team splits the work (draft in Google Doc); which tables and seasons to keep; visual layer framework.
+- **Last updated:** 2026-11-20 (session 3 close).
