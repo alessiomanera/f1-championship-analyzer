@@ -14,17 +14,40 @@ Group project for **Lab of Software Project Development (ET7018)**, Ca' Foscari 
 
 ## Status
 
-Planning phase: the repository, team workflow and project board are set up and the data source is chosen; the dataset download and the package skeleton come next. Progress is tracked on the GitHub project board and in [ROADMAP.md](ROADMAP.md).
+Foundation in place: repository, team workflow, project board, data source and the package skeleton. The dataset download and the first features come next. Progress is tracked on the GitHub project board and in [ROADMAP.md](ROADMAP.md).
 
 ## Course requirements
 
 | # | Requirement | Status |
 | --- | --- | --- |
 | 1 | git and GitHub: issues, Kanban board, branches, pull requests | In progress |
-| 2 | Standard Python package structure | Not started |
+| 2 | Standard Python package structure | Skeleton done |
 | 3 | `csv` data loading and `argparse` CLI | Not started |
 | 4 | Object-oriented design | Not started |
 | 5 | Tests | Not started |
+
+## Getting started
+
+Requirements: [uv](https://docs.astral.sh/uv/getting-started/installation/), which installs the right Python version by itself.
+
+```bash
+git clone https://github.com/alessiomanera/f1-championship-analyzer.git
+cd f1-championship-analyzer
+uv sync
+uv run f1cli --help
+```
+
+Run the checks with `uv run pytest`, `uv run ruff check .` and `uv run ruff format --check .`.
+
+## Project layout
+
+```text
+src/f1_championship_analyzer/   the package (cli.py holds the f1cli command)
+tests/                          pytest tests
+data/                           CSV data (added with the data issues)
+pyproject.toml                  project metadata, tool settings, pinned dev tools
+uv.lock                         exact versions of every tool, shared by the team and CI
+```
 
 ## Data
 
