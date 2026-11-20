@@ -12,5 +12,12 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "githubIssues.issueBranchTitle": "feature/${issueNumber}-${sanitizedIssueTitle}",
-  "githubPullRequests.defaultMergeMethod": "squash"
+  "githubPullRequests.defaultMergeMethod": "squash",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.egg-info": true,
+    ".pytest_cache": true,
+    ".ruff_cache": true,
+    ".venv": true
+  }
 }

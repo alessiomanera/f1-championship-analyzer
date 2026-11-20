@@ -27,7 +27,7 @@ Every task and idea for the project, grouped by course requirement. Day-to-day s
 
 ## Requirement 3: `csv` and `argparse`
 
-- [ ] CSV loader with missing values (`\N`) and type conversion
+- [ ] CSV loader with missing values (empty fields) and type conversion
 - [ ] CLI commands: standings, race, driver, compare, fastest laps
 
 ## Requirement 4: object-oriented design

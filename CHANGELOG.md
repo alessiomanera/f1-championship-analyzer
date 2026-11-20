@@ -15,7 +15,3 @@ All notable changes to this project are recorded here. The format follows [Keep 
 - Shared tooling: Python 3.12 pinned in `.python-version`, `uv` with a committed `uv.lock`, exact versions of `pytest` and `ruff` (PEP 8 checks and formatting).
 - CI workflow running lint, formatting and tests on Windows, macOS and Linux for every pull request.
 - Shared VS Code settings and recommended extensions in `.vscode/`.
-
-### Removed
-
-- The initial package skeleton and dataset, removed from `main` so that each module is built by its owner through reviewed pull requests, starting from a documented data source.
