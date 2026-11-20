@@ -6,6 +6,7 @@ All notable changes to this project are recorded here. The format follows [Keep 
 
 ### Added
 
+- Jolpica-F1 data in `data/` (#1, #3): 14 tables from the 2026-11-02 dump, with provenance, licence, checksums and a table guide in `data/README.md`.
 - Team documentation: `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `ROADMAP.md` and this changelog.
 - Issue and pull request templates in `.github/`.
 - `.gitattributes` to keep line endings consistent across Windows, macOS and Linux.

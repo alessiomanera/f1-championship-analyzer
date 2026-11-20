@@ -38,7 +38,7 @@ The tool will read relational CSV files stored in `data/`, so it runs fully offl
 | Database schema | <https://dbdocs.io/jolpica/jolpica-f1> |
 | Terms of use and licence | <https://github.com/jolpica/jolpica-f1/blob/main/TERMS.md> |
 
-The Jolpica data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) and free for non-commercial use. When the files are added, `data/README.md` will record the download date, the dump's SHA-256 hash and the tables used.
+The Jolpica data is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) and free for non-commercial use. The files used, their checksums, the download date, how the tables connect and how values are written are documented in [data/README.md](data/README.md).
 
 ## Contributing
 

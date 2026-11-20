@@ -15,9 +15,9 @@ Every task and idea for the project, grouped by course milestone. Day-to-day sta
 ## Data source (issues #1 and #3)
 
 - [x] Compare candidate sources and choose one: Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>)
-- [ ] Choose the tables and seasons to keep (the lap file alone is 37 MB)
-- [ ] Download the dump from <https://api.jolpi.ca/data/dumps/download/> into `data/`
-- [ ] Write `data/README.md`: source URL, download date, licence, checksums, table relationships
+- [x] Choose the tables and seasons to keep: 14 tables, all seasons; laps and pit stops left out for now
+- [x] Download the dump from <https://api.jolpi.ca/data/dumps/download/> into `data/`
+- [x] Write `data/README.md`: source URL, download date, licence, checksums, table relationships
 
 ## Milestone 2: package structure (`v0.2.0`)
 
