@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to this project are recorded here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses [Semantic Versioning](https://semver.org/): each course milestone merged into `main` gets a minor version (`v0.1.0` for milestone 1, `v0.2.0` for milestone 2, and so on).
+All notable changes to this project are recorded here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses [Semantic Versioning](https://semver.org/): each release merged into `main` gets the next minor version (`v0.1.0`, `v0.2.0`, and so on, up to `v1.0.0` for the final submission).
 
 ## [Unreleased]
 
@@ -12,7 +12,7 @@ All notable changes to this project are recorded here. The format follows [Keep 
 - `.gitattributes` to keep line endings consistent across Windows, macOS and Linux.
 - Branch protection on `main` and `testing`: changes arrive only through reviewed pull requests.
 - Data source chosen and documented in `README.md`: the Jolpica-F1 CSV dump (CC BY-NC-SA 4.0).
-
-### Removed
-
-- The initial package skeleton and dataset, removed from `main` so that each module is built by its owner through reviewed pull requests, starting from a documented data source.
+- Package skeleton (#12): `src/` layout with the `f1_championship_analyzer` package, the `f1cli` command (`--help`, `--version`, `python -m` support) and its tests.
+- Shared tooling: Python 3.12 pinned in `.python-version`, `uv` with a committed `uv.lock`, exact versions of `pytest` and `ruff` (PEP 8 checks and formatting).
+- CI workflow running lint, formatting and tests on Windows, macOS and Linux for every pull request.
+- Shared VS Code settings and recommended extensions in `.vscode/`.
