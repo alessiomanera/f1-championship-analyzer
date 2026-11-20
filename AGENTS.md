@@ -31,6 +31,7 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Personal data:** never commit student IDs, email addresses, tokens or private document links.
 - **Writing style:** punctuate with commas, semicolons, colons, full stops, parentheses or line breaks; never use the em dash character in any file, commit message or pull request.
 - **Docs move with code:** a change that alters behaviour updates `README.md` and adds a line to `CHANGELOG.md` under `Unreleased`.
+- **Shared Google Doc in sync:** at every session close, check and update the shared team Google Doc (tabs: `REFERENCE`, `GIT WORKFLOW`, `Team meeting brief`, `Formula 1 Project Plan`) so that team briefs, decisions, and instructions never contain stale or broken facts.
 
 ## Current state
 
