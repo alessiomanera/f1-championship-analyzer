@@ -1,0 +1,41 @@
+# AGENTS.md
+
+Shared rules for everyone working in this repository: the five team members and any AI coding assistant they use (Claude Code, Copilot, Cursor, Gemini, Codex). Read this file before changing anything. Workflow details live in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Project
+
+- **What:** Formula 1 Championship and Telemetry Analyzer, a Python command-line tool that loads Formula 1 history from local CSV files, models it with classes and answers questions about races, drivers, constructors and championship standings.
+- **Why:** group project for Lab of Software Project Development (ET7018), Ca' Foscari University of Venice @ H-Farm, AY 2026-27. The repository is public and the professor reviews it, including the git history.
+- **Team:** Alessio Manera, Simone Angelo Vasilescu, Alice Comino, Andrea Graziano Gitto, Francesco Domenico Saltarelli.
+
+## Course requirements
+
+The project is graded on five requirements, built in this order as the course covers each topic:
+
+1. Use git and GitHub to set up and run the project (issues, Kanban board, branches, pull requests).
+2. Provide the standard Python package structure (`src/` layout, `pyproject.toml`, PEP 8).
+3. Read data with the standard library `csv` module and expose a multi-command CLI with `argparse`.
+4. Structure the code in an object-oriented way (drivers, constructors, circuits, races, results, standings).
+5. Provide tests for the project code.
+
+The course asks for little code that applies each week's technique well. Prefer a small, tested, readable feature over a large one.
+
+## Rules
+
+- **One issue, one branch, one pull request.** Work only inside the scope of the issue you are on. Each module has an owner (see the Google Doc plan); change another member's module only through a reviewed pull request that the owner approves.
+- **Branches:** `feature/*` and `fix/*` branches open pull requests into `testing`; `testing` merges into `main` only at a course milestone. Nobody pushes to `main` directly (GitHub enforces it). Details in [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Offline data:** the program reads only the CSV files in `data/`, never a live API, so it works during the oral exam without internet. Every dataset records its source URL, download date, licence and checksum in `data/README.md`.
+- **Standard library core:** loading, models, scoring and the CLI use only the Python standard library. A third-party package needs a team decision recorded in the issue first.
+- **Authorship:** commits carry the real name of the member who made them, with no AI co-author trailers. Whoever commits AI-assisted code must understand it well enough to explain it at the oral exam.
+- **Personal data:** never commit student IDs, email addresses, tokens or private document links.
+- **Writing style:** punctuate with commas, semicolons, colons, full stops, parentheses or line breaks; never use the em dash character in any file, commit message or pull request.
+- **Docs move with code:** a change that alters behaviour updates `README.md` and adds a line to `CHANGELOG.md` under `Unreleased`.
+
+## Current state
+
+- **Goal:** deliver the five course requirements, then a visual layer for exploring race and championship trends.
+- **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates).
+- **Data source (decided 2026-11-20):** the Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>, download at <https://api.jolpi.ca/data/dumps/download/>), licensed CC BY-NC-SA 4.0. It uses Jolpica's own table layout (`formula_one_*.csv`), not the old Ergast files; links and details are in `README.md`.
+- **Next:** download the dump into `data/` and document it in `data/README.md` (issues #1 and #3); create the package skeleton (`pyproject.toml`, `src/`, `tests/`).
+- **Open decisions:** which tables and seasons to keep; package name (`f1_analytics` in the plan); visual layer framework.
+- **Last updated:** 2026-11-20.
