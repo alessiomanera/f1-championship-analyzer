@@ -22,7 +22,7 @@ The course asks for little code that applies each week's technique well. Prefer 
 
 ## Rules
 
-- **One issue, one branch, one pull request.** Work only inside the scope of the issue you are on. Each module has an owner (see the Google Doc plan); change another member's module only through a reviewed pull request that the owner approves.
+- **One issue, one branch, one pull request.** Work only inside the scope of the issue you are on, and assign yourself to it so the team knows who is working on what. The split of modules between members is not decided yet; until it is, agree in the issue before changing code someone else is working on.
 - **Branches:** `feature/*` and `fix/*` branches open pull requests into `testing`; `testing` merges into `main` only at a course milestone. Nobody pushes to `main` directly (GitHub enforces it). Details in [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Offline data:** the program reads only the CSV files in `data/`, never a live API, so it works during the oral exam without internet. Every dataset records its source URL, download date, licence and checksum in `data/README.md`.
 - **Standard library core:** loading, models, scoring and the CLI use only the Python standard library. A third-party package needs a team decision recorded in the issue first.
@@ -37,5 +37,5 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates).
 - **Data source (decided 2026-11-20):** the Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>, download at <https://api.jolpi.ca/data/dumps/download/>), licensed CC BY-NC-SA 4.0. It uses Jolpica's own table layout (`formula_one_*.csv`), not the old Ergast files; links and details are in `README.md`.
 - **Next:** download the dump into `data/` and document it in `data/README.md` (issues #1 and #3); create the package skeleton (`pyproject.toml`, `src/`, `tests/`).
-- **Open decisions:** which tables and seasons to keep; package name (`f1_analytics` in the plan); visual layer framework.
+- **Open decisions:** how the team splits the work (the module split in the Google Doc plan is a draft, not agreed); which tables and seasons to keep; package name (`f1_analytics` in the draft plan); visual layer framework.
 - **Last updated:** 2026-11-20.
