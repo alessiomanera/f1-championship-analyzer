@@ -4,6 +4,8 @@ All notable changes to this project are recorded here. The format follows [Keep 
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-11-20
+
 ### Added
 
 - Jolpica-F1 data in `data/` (#1, #3): 14 tables from the 2026-11-02 dump, with provenance, licence, checksums and a table guide in `data/README.md`.
