@@ -7,6 +7,7 @@ All notable changes to this project are recorded here. The format follows [Keep 
 ### Changed
 
 - Merge rules enforced by GitHub (#16): `testing` accepts only squash merges and `main` only merge commits; merged branches are deleted from GitHub automatically. `CONTRIBUTING.md` explains the local clean-up after a squash merge and the optional auto-merge.
+- `AGENTS.md` (#16): new "Coding assistants" rules (assistants explain, members type every command and write their own code); the project status section is replaced by a "Where things live" list pointing to `CONTRIBUTING.md`, `README.md`, `ROADMAP.md`, `CHANGELOG.md` and the project board.
 
 ## [0.1.0] - 2026-11-20
 

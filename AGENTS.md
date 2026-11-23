@@ -27,21 +27,25 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Offline data:** the program reads only the CSV files in `data/`, never a live API, so it works during the oral exam without internet. Every dataset records its source URL, download date, licence and checksum in `data/README.md`.
 - **Same tools for everyone:** the project uses `uv` (Python 3.12 from `.python-version`, exact tool versions from `uv.lock`). Install with `uv sync`, add a package with `uv add`, and commit the updated `uv.lock`. Before every pull request, run `uv run ruff check .`, `uv run ruff format --check .` and `uv run pytest`; CI runs the same checks and must pass.
 - **Standard library core:** loading, models, scoring and the CLI use only the Python standard library. A third-party package needs a team decision recorded in the issue first.
-- **Authorship:** commits carry the real name of the member who made them, with no AI co-author trailers. Whoever commits AI-assisted code must understand it well enough to explain it at the oral exam.
+- **Authorship:** commits carry the real name of the member who made them, with no AI co-author trailers.
 - **Personal data:** never commit student IDs, email addresses, tokens or private document links.
 - **Writing style:** punctuate with commas, semicolons, colons, full stops, parentheses or line breaks; never use the em dash character in any file, commit message or pull request.
 - **Docs move with code:** a change that alters behaviour updates `README.md` and adds a line to `CHANGELOG.md` under `Unreleased`.
 - **Shared Google Doc in sync:** whoever changes how we work updates the shared team Google Doc the same day (tabs: `REFERENCE`, `GIT WORKFLOW`, `DECISIONS`, `Team meeting brief`, `Formula 1 Project Plan`). Every new decision and the reason for it goes into `DECISIONS`. If the doc and this repository disagree, the repository wins.
 
-## Current state
+## Coding assistants
 
-- **Goal:** deliver the five course requirements, then a visual layer for exploring race and championship trends.
-- **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates), package skeleton (#12/PR #13 merged into `testing`), Jolpica data (#3/PR #14, 14 tables, merged into `testing`), multi-OS CI passing on Windows, macOS, Linux, shared Google Doc tabs ("Team meeting brief" and "GIT WORKFLOW"), personal cheat sheet in `_PERSONAL/CHEAT_SHEET.md`.
-- **Data source (decided 2026-11-20):** the Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>, download at <https://api.jolpi.ca/data/dumps/download/>), licensed CC BY-NC-SA 4.0. It uses Jolpica's own table layout (`formula_one_*.csv`), not the old Ergast files; links and details are in `README.md`.
-- **Merged into `testing`:** PR #13 (skeleton), #14 (data), #15 (changelog for `v0.1.0`). `main` is not released yet (no tag).
-- **Merge rules (2026-11-23):** `testing` accepts only squash merges, `main` only merge commits; merged branches are deleted from GitHub automatically; auto-merge is optional, off by default.
-- **Tests:** each member writes the tests for their own part.
-- **In progress:** issue #16, workflow docs sync (`docs/16-workflow-sync`).
-- **Next:** team meeting this week: agree code layers and who does what, review the workflow together, assign issues #1 to #10, release `v0.1.0` (`testing` -> `main`, merge commit, tag).
-- **Open decisions:** how the team splits the work (draft in the Google Doc); which tables and seasons to keep; visual layer framework.
-- **Last updated:** 2026-11-23.
+We use coding assistants as tutors, not as substitutes: the point of this project is to learn git, GitHub and Python ourselves.
+
+- **Explain, do not do:** an assistant explains which command or approach to use, why, and what it will do. The member types and runs every command (`git`, `gh`, `uv`) and writes their own code.
+- **No actions on a member's behalf:** an assistant does not commit, push, merge, open or review pull requests, and does not write a member's module. It may explain, show short examples and review code the member wrote.
+- **Trivial exceptions:** an assistant may do a very small, mechanical task itself (for example fixing a typo in a document) only after the member confirms it.
+- **Understand what you commit:** every member can explain every line they commit, at the oral exam too.
+
+## Where things live
+
+- **How we work, step by step:** [CONTRIBUTING.md](CONTRIBUTING.md) (setup, branches, pull requests, reviews, releases, commit style).
+- **What the project is and how to use it:** [README.md](README.md).
+- **What is planned:** [ROADMAP.md](ROADMAP.md).
+- **What has changed:** [CHANGELOG.md](CHANGELOG.md).
+- **Who is doing what right now:** the GitHub project board.
