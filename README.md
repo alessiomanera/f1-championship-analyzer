@@ -14,7 +14,7 @@ Group project for **Lab of Software Project Development (ET7018)**, Ca' Foscari 
 
 ## Status
 
-Foundation in place: repository, team workflow, project board, data source and the package skeleton. The dataset (pull request #14) and the first features come next. Progress is tracked on the GitHub project board and in [ROADMAP.md](ROADMAP.md).
+Foundation in place: repository, team workflow, project board, the package skeleton and the Jolpica-F1 dataset in `data/`. Next: the first release (`v0.1.0`) and the first features (CSV loading and the command line). Progress is tracked on the GitHub project board and in [ROADMAP.md](ROADMAP.md).
 
 ## Course requirements
 
