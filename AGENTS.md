@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Shared rules for everyone working in this repository: the five team members and any AI coding assistant they use (Claude Code, Copilot, Cursor, Gemini, Codex). Read this file before changing anything. Workflow details live in [CONTRIBUTING.md](CONTRIBUTING.md).
+Shared rules for everyone working in this repository: the five team members and any coding assistant a member uses. Read this file before changing anything. Workflow details live in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Project
 
@@ -31,7 +31,7 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Personal data:** never commit student IDs, email addresses, tokens or private document links.
 - **Writing style:** punctuate with commas, semicolons, colons, full stops, parentheses or line breaks; never use the em dash character in any file, commit message or pull request.
 - **Docs move with code:** a change that alters behaviour updates `README.md` and adds a line to `CHANGELOG.md` under `Unreleased`.
-- **Shared Google Doc in sync:** at every session close, check and update the shared team Google Doc (tabs: `REFERENCE`, `GIT WORKFLOW`, `Team meeting brief`, `Formula 1 Project Plan`) so that team briefs, decisions, and instructions never contain stale or broken facts.
+- **Shared Google Doc in sync:** whoever changes how we work updates the shared team Google Doc the same day (tabs: `REFERENCE`, `GIT WORKFLOW`, `DECISIONS`, `Team meeting brief`, `Formula 1 Project Plan`). Every new decision and the reason for it goes into `DECISIONS`. If the doc and this repository disagree, the repository wins.
 
 ## Current state
 
