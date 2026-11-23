@@ -4,6 +4,10 @@ All notable changes to this project are recorded here. The format follows [Keep 
 
 ## [Unreleased]
 
+### Changed
+
+- Merge rules enforced by GitHub (#16): `testing` accepts only squash merges and `main` only merge commits; merged branches are deleted from GitHub automatically. `CONTRIBUTING.md` explains the local clean-up after a squash merge and the optional auto-merge.
+
 ## [0.1.0] - 2026-11-20
 
 ### Added

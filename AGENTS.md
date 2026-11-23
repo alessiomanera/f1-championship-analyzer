@@ -38,7 +38,10 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Goal:** deliver the five course requirements, then a visual layer for exploring race and championship trends.
 - **Done:** repository, licence (GPL-3.0), collaborators, Kanban board, branch protection on `main` and `testing`, team docs (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`, issue and pull request templates), package skeleton (#12/PR #13 merged into `testing`), Jolpica data (#3/PR #14, 14 tables, merged into `testing`), multi-OS CI passing on Windows, macOS, Linux, shared Google Doc tabs ("Team meeting brief" and "GIT WORKFLOW"), personal cheat sheet in `_PERSONAL/CHEAT_SHEET.md`.
 - **Data source (decided 2026-11-20):** the Jolpica-F1 CSV dump (<https://github.com/jolpica/jolpica-f1>, download at <https://api.jolpi.ca/data/dumps/download/>), licensed CC BY-NC-SA 4.0. It uses Jolpica's own table layout (`formula_one_*.csv`), not the old Ergast files; links and details are in `README.md`.
-- **In review:** PR #15 (`chore/prepare-v0.1.0` -> `testing`), all CI checks passed, auto-merge enabled waiting on 1 teammate review.
-- **Next:** once PR #15 merges, open release PR `testing` -> `main`, review and merge with teammates during the team meeting, tag `v0.1.0`; agree code layers and assign issues #1 to #10.
-- **Open decisions:** how the team splits the work (draft in Google Doc); which tables and seasons to keep; visual layer framework.
-- **Last updated:** 2026-11-20 (session 3 close).
+- **Merged into `testing`:** PR #13 (skeleton), #14 (data), #15 (changelog for `v0.1.0`). `main` is not released yet (no tag).
+- **Merge rules (2026-11-23):** `testing` accepts only squash merges, `main` only merge commits; merged branches are deleted from GitHub automatically; auto-merge is optional, off by default.
+- **Tests:** each member writes the tests for their own part.
+- **In progress:** issue #16, workflow docs sync (`docs/16-workflow-sync`).
+- **Next:** team meeting this week: agree code layers and who does what, review the workflow together, assign issues #1 to #10, release `v0.1.0` (`testing` -> `main`, merge commit, tag).
+- **Open decisions:** how the team splits the work (draft in the Google Doc); which tables and seasons to keep; visual layer framework.
+- **Last updated:** 2026-11-23.

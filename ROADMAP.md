@@ -10,7 +10,11 @@ Every task and idea for the project, grouped by course requirement. Day-to-day s
 - [x] Branch workflow (`feature/*` into `testing` into `main`) and protection on `main`
 - [x] Team docs: `README.md`, `AGENTS.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, issue and pull request templates
 - [x] Labels and GitHub milestones for the five course requirements
+- [x] Merge methods enforced per branch (squash into `testing`, merge commit into `main`) and merged branches deleted automatically
+- [ ] Agree code layers and who does what (team meeting)
+- [ ] First release `v0.1.0` from `testing` into `main`, tagged
 - [ ] Every member merges at least one reviewed pull request
+- [ ] Every member reviews at least one teammate's pull request
 
 ## Data source (issues #1 and #3)
 
@@ -37,7 +41,7 @@ Every task and idea for the project, grouped by course requirement. Day-to-day s
 
 ## Requirement 5: tests
 
-- [ ] Unit tests: time parsing, points, tie-breaks, missing data, CLI arguments
+- [ ] Unit tests: time parsing, points, tie-breaks, missing data, CLI arguments (each member writes the tests for their own part)
 - [x] Continuous integration running the tests on every pull request
 
 ## Ideas after the requirements
