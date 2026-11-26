@@ -1,6 +1,10 @@
 # Normalise line endings so Windows, macOS and Linux produce identical diffs.
 * text=auto eol=lf
 
+# Data files stay byte for byte as downloaded, so their SHA-256 checksums
+# in data/README.md stay valid.
+data/*.csv -text
+
 # Windows scripts keep CRLF.
 *.bat text eol=crlf
 *.cmd text eol=crlf
