@@ -1,260 +1,260 @@
-country_code,nationality
-AFG,Afghan
-ALA,Åland Island
-ALB,Albanian
-DZA,Algerian
-ASM,American Samoan
-AND,Andorran
-AGO,Angolan
-AIA,Anguillan
-ATA,Antarctic
-ATG,Antiguan or Barbudan
-ARG,Argentine
-ARM,Armenian
-ABW,Aruban
-AUS,Australian
-AUT,Austrian
-AZE,"Azerbaijani, Azeri"
-BHS,Bahamian
-BHR,Bahraini
-BGD,Bangladeshi
-BRB,Barbadian
-BLR,Belarusian
-BEL,Belgian
-BLZ,Belizean
-BEN,"Beninese, Beninois"
-BMU,"Bermudian, Bermudan"
-BTN,Bhutanese
-BOL,Bolivian
-BES,Bonaire
-BIH,Bosnian or Herzegovinian
-BWA,"Motswana, Botswanan"
-BVT,Bouvet Island
-BRA,Brazilian
-IOT,BIOT
-BRN,Bruneian
-BGR,Bulgarian
-BFA,Burkinabé
-BDI,Burundian
-CPV,Cabo Verdean
-KHM,Cambodian
-CMR,Cameroonian
-CAN,Canadian
-CYM,Caymanian
-CAF,Central African
-TCD,Chadian
-CHL,Chilean
-CHN,Chinese
-CXR,Christmas Island
-CCK,Cocos Island
-COL,Colombian
-COM,"Comoran, Comorian"
-COG,Congolese
-COD,Congolese
-COK,Cook Island
-CRI,Costa Rican
-CIV,Ivorian
-HRV,Croatian
-CUB,Cuban
-CUW,Curaçaoan
-CYP,Cypriot
-CZE,Czech
-DNK,Danish
-DJI,Djiboutian
-DMA,Dominican
-DOM,Dominican
-ECU,Ecuadorian
-EGY,Egyptian
-SLV,Salvadoran
-GNQ,"Equatorial Guinean, Equatoguinean"
-ERI,Eritrean
-EST,Estonian
-ETH,Ethiopian
-FLK,Falkland Island
-FRO,Faroese
-FJI,Fijian
-FIN,Finnish
-FRA,French
-GUF,French Guianese
-PYF,French Polynesian
-ATF,French Southern Territories
-GAB,Gabonese
-GMB,Gambian
-GEO,Georgian
-DEU,German
-GHA,Ghanaian
-GIB,Gibraltar
-GRC,"Greek, Hellenic"
-GRL,Greenlandic
-GRD,Grenadian
-GLP,Guadeloupe
-GUM,"Guamanian, Guambat"
-GTM,Guatemalan
-GGY,Channel Island
-GIN,Guinean
-GNB,Bissau-Guinean
-GUY,Guyanese
-HTI,Haitian
-HMD,Heard Island or McDonald Islands
-VAT,Vatican
-HND,Honduran
-HKG,"Hong Kong, Hong Kongese"
-HUN,"Hungarian, Magyar"
-ISL,Icelandic
-IND,Indian
-IDN,Indonesian
-IRN,"Iranian, Persian"
-IRQ,Iraqi
-IRL,Irish
-IMN,Manx
-ISR,Israeli
-ITA,Italian
-JAM,Jamaican
-JPN,Japanese
-JEY,Channel Island
-JOR,Jordanian
-KAZ,"Kazakhstani, Kazakh"
-KEN,Kenyan
-KIR,I-Kiribati
-PRK,North Korean
-KOR,South Korean
-KWT,Kuwaiti
-KGZ,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
-LAO,"Lao, Laotian"
-LVA,Latvian
-LBN,Lebanese
-LSO,Basotho
-LBR,Liberian
-LBY,Libyan
-LIE,Liechtenstein
-LTU,Lithuanian
-LUX,"Luxembourg, Luxembourgish"
-MAC,"Macanese, Chinese"
-MKD,Macedonian
-MDG,Malagasy
-MWI,Malawian
-MYS,Malaysian
-MDV,Maldivian
-MLI,"Malian, Malinese"
-MLT,Maltese
-MHL,Marshallese
-MTQ,"Martiniquais, Martinican"
-MRT,Mauritanian
-MUS,Mauritian
-MYT,Mahoran
-MEX,Mexican
-FSM,Micronesian
-MDA,Moldovan
-MCO,"Monégasque, Monacan"
-MNG,Mongolian
-MNE,Montenegrin
-MSR,Montserratian
-MAR,Moroccan
-MOZ,Mozambican
-MMR,Burmese
-NAM,Namibian
-NRU,Nauruan
-NPL,"Nepali, Nepalese"
-NLD,"Dutch, Netherlandic"
-NCL,New Caledonian
-NZL,"New Zealand, NZ"
-NIC,Nicaraguan
-NER,Nigerien
-NGA,Nigerian
-NIU,Niuean
-NFK,Norfolk Island
-MNP,Northern Marianan
-NOR,Norwegian
-OMN,Omani
-PAK,Pakistani
-PLW,Palauan
-PSE,Palestinian
-PAN,Panamanian
-PNG,"Papua New Guinean, Papuan"
-PRY,Paraguayan
-PER,Peruvian
-PHL,"Philippine, Filipino"
-PCN,Pitcairn Island
-POL,Polish
-PRT,Portuguese
-PRI,Puerto Rican
-QAT,Qatari
-REU,"Réunionese, Réunionnais"
-ROU,Romanian
-RUS,Russian
-RWA,Rwandan
-BLM,Barthélemois
-SHN,Saint Helenian
-KNA,Kittitian or Nevisian
-LCA,Saint Lucian
-MAF,Saint-Martinoise
-SPM,Saint-Pierrais or Miquelonnais
-VCT,"Saint Vincentian, Vincentian"
-WSM,Samoan
-SMR,Sammarinese
-STP,São Toméan
-SAU,"Saudi, Saudi Arabian"
-SEN,Senegalese
-SRB,Serbian
-SYC,Seychellois
-SLE,Sierra Leonean
-SGP,Singaporean
-SXM,Sint Maarten
-SVK,Slovak
-SVN,"Slovenian, Slovene"
-SLB,Solomon Island
-SOM,"Somali, Somalian"
-ZAF,South African
-SGS,South Georgia or South Sandwich Islands
-SSD,South Sudanese
-ESP,Spanish
-LKA,Sri Lankan
-SDN,Sudanese
-SUR,Surinamese
-SJM,Svalbard
-SWZ,Swazi
-SWE,Swedish
-CHE,Swiss
-SYR,Syrian
-TWN,"Chinese, Taiwanese"
-TJK,Tajikistani
-TZA,Tanzanian
-THA,Thai
-TLS,Timorese
-TGO,Togolese
-TKL,Tokelauan
-TON,Tongan
-TTO,Trinidadian or Tobagonian
-TUN,Tunisian
-TUR,Turkish
-TKM,Turkmen
-TCA,Turks and Caicos Island
-TUV,Tuvaluan
-UGA,Ugandan
-UKR,Ukrainian
-ARE,"Emirati, Emirian, Emiri"
-GBR,"British, UK"
-UMI,American
-USA,American
-URY,Uruguayan
-UZB,"Uzbekistani, Uzbek"
-VUT,"Ni-Vanuatu, Vanuatuan"
-VEN,Venezuelan
-VNM,Vietnamese
-VGB,British Virgin Island
-VIR,U.S. Virgin Island
-WLF,"Wallis and Futuna, Wallisian or Futunan"
-ESH,"Sahrawi, Sahrawian, Sahraouian"
-YEM,Yemeni
-ZMB,Zambian
-ZWE,Zimbabwean
-DEN,Danish
-MON,Monegasque
-NED,Dutch
-GER,German
-RSA,South African
-SUI,Swiss
-POR,Portuguese
-URS,Soviet
-ROC,Russian
-BUL,Bulgarian
+ï»¿country_code,nationality
+AFG,Afghan
+ALA,Ã…land Island
+ALB,Albanian
+DZA,Algerian
+ASM,American Samoan
+AND,Andorran
+AGO,Angolan
+AIA,Anguillan
+ATA,Antarctic
+ATG,Antiguan or Barbudan
+ARG,Argentine
+ARM,Armenian
+ABW,Aruban
+AUS,Australian
+AUT,Austrian
+AZE,"Azerbaijani, Azeri"
+BHS,Bahamian
+BHR,Bahraini
+BGD,Bangladeshi
+BRB,Barbadian
+BLR,Belarusian
+BEL,Belgian
+BLZ,Belizean
+BEN,"Beninese, Beninois"
+BMU,"Bermudian, Bermudan"
+BTN,Bhutanese
+BOL,Bolivian
+BES,Bonaire
+BIH,Bosnian or Herzegovinian
+BWA,"Motswana, Botswanan"
+BVT,Bouvet Island
+BRA,Brazilian
+IOT,BIOT
+BRN,Bruneian
+BGR,Bulgarian
+BFA,BurkinabÃ©
+BDI,Burundian
+CPV,Cabo Verdean
+KHM,Cambodian
+CMR,Cameroonian
+CAN,Canadian
+CYM,Caymanian
+CAF,Central African
+TCD,Chadian
+CHL,Chilean
+CHN,Chinese
+CXR,Christmas Island
+CCK,Cocos Island
+COL,Colombian
+COM,"Comoran, Comorian"
+COG,Congolese
+COD,Congolese
+COK,Cook Island
+CRI,Costa Rican
+CIV,Ivorian
+HRV,Croatian
+CUB,Cuban
+CUW,CuraÃ§aoan
+CYP,Cypriot
+CZE,Czech
+DNK,Danish
+DJI,Djiboutian
+DMA,Dominican
+DOM,Dominican
+ECU,Ecuadorian
+EGY,Egyptian
+SLV,Salvadoran
+GNQ,"Equatorial Guinean, Equatoguinean"
+ERI,Eritrean
+EST,Estonian
+ETH,Ethiopian
+FLK,Falkland Island
+FRO,Faroese
+FJI,Fijian
+FIN,Finnish
+FRA,French
+GUF,French Guianese
+PYF,French Polynesian
+ATF,French Southern Territories
+GAB,Gabonese
+GMB,Gambian
+GEO,Georgian
+DEU,German
+GHA,Ghanaian
+GIB,Gibraltar
+GRC,"Greek, Hellenic"
+GRL,Greenlandic
+GRD,Grenadian
+GLP,Guadeloupe
+GUM,"Guamanian, Guambat"
+GTM,Guatemalan
+GGY,Channel Island
+GIN,Guinean
+GNB,Bissau-Guinean
+GUY,Guyanese
+HTI,Haitian
+HMD,Heard Island or McDonald Islands
+VAT,Vatican
+HND,Honduran
+HKG,"Hong Kong, Hong Kongese"
+HUN,"Hungarian, Magyar"
+ISL,Icelandic
+IND,Indian
+IDN,Indonesian
+IRN,"Iranian, Persian"
+IRQ,Iraqi
+IRL,Irish
+IMN,Manx
+ISR,Israeli
+ITA,Italian
+JAM,Jamaican
+JPN,Japanese
+JEY,Channel Island
+JOR,Jordanian
+KAZ,"Kazakhstani, Kazakh"
+KEN,Kenyan
+KIR,I-Kiribati
+PRK,North Korean
+KOR,South Korean
+KWT,Kuwaiti
+KGZ,"Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+LAO,"Lao, Laotian"
+LVA,Latvian
+LBN,Lebanese
+LSO,Basotho
+LBR,Liberian
+LBY,Libyan
+LIE,Liechtenstein
+LTU,Lithuanian
+LUX,"Luxembourg, Luxembourgish"
+MAC,"Macanese, Chinese"
+MKD,Macedonian
+MDG,Malagasy
+MWI,Malawian
+MYS,Malaysian
+MDV,Maldivian
+MLI,"Malian, Malinese"
+MLT,Maltese
+MHL,Marshallese
+MTQ,"Martiniquais, Martinican"
+MRT,Mauritanian
+MUS,Mauritian
+MYT,Mahoran
+MEX,Mexican
+FSM,Micronesian
+MDA,Moldovan
+MCO,"MonÃ©gasque, Monacan"
+MNG,Mongolian
+MNE,Montenegrin
+MSR,Montserratian
+MAR,Moroccan
+MOZ,Mozambican
+MMR,Burmese
+NAM,Namibian
+NRU,Nauruan
+NPL,"Nepali, Nepalese"
+NLD,"Dutch, Netherlandic"
+NCL,New Caledonian
+NZL,"New Zealand, NZ"
+NIC,Nicaraguan
+NER,Nigerien
+NGA,Nigerian
+NIU,Niuean
+NFK,Norfolk Island
+MNP,Northern Marianan
+NOR,Norwegian
+OMN,Omani
+PAK,Pakistani
+PLW,Palauan
+PSE,Palestinian
+PAN,Panamanian
+PNG,"Papua New Guinean, Papuan"
+PRY,Paraguayan
+PER,Peruvian
+PHL,"Philippine, Filipino"
+PCN,Pitcairn Island
+POL,Polish
+PRT,Portuguese
+PRI,Puerto Rican
+QAT,Qatari
+REU,"RÃ©unionese, RÃ©unionnais"
+ROU,Romanian
+RUS,Russian
+RWA,Rwandan
+BLM,BarthÃ©lemois
+SHN,Saint Helenian
+KNA,Kittitian or Nevisian
+LCA,Saint Lucian
+MAF,Saint-Martinoise
+SPM,Saint-Pierrais or Miquelonnais
+VCT,"Saint Vincentian, Vincentian"
+WSM,Samoan
+SMR,Sammarinese
+STP,SÃ£o TomÃ©an
+SAU,"Saudi, Saudi Arabian"
+SEN,Senegalese
+SRB,Serbian
+SYC,Seychellois
+SLE,Sierra Leonean
+SGP,Singaporean
+SXM,Sint Maarten
+SVK,Slovak
+SVN,"Slovenian, Slovene"
+SLB,Solomon Island
+SOM,"Somali, Somalian"
+ZAF,South African
+SGS,South Georgia or South Sandwich Islands
+SSD,South Sudanese
+ESP,Spanish
+LKA,Sri Lankan
+SDN,Sudanese
+SUR,Surinamese
+SJM,Svalbard
+SWZ,Swazi
+SWE,Swedish
+CHE,Swiss
+SYR,Syrian
+TWN,"Chinese, Taiwanese"
+TJK,Tajikistani
+TZA,Tanzanian
+THA,Thai
+TLS,Timorese
+TGO,Togolese
+TKL,Tokelauan
+TON,Tongan
+TTO,Trinidadian or Tobagonian
+TUN,Tunisian
+TUR,Turkish
+TKM,Turkmen
+TCA,Turks and Caicos Island
+TUV,Tuvaluan
+UGA,Ugandan
+UKR,Ukrainian
+ARE,"Emirati, Emirian, Emiri"
+GBR,"British, UK"
+UMI,American
+USA,American
+URY,Uruguayan
+UZB,"Uzbekistani, Uzbek"
+VUT,"Ni-Vanuatu, Vanuatuan"
+VEN,Venezuelan
+VNM,Vietnamese
+VGB,British Virgin Island
+VIR,U.S. Virgin Island
+WLF,"Wallis and Futuna, Wallisian or Futunan"
+ESH,"Sahrawi, Sahrawian, Sahraouian"
+YEM,Yemeni
+ZMB,Zambian
+ZWE,Zimbabwean
+DEN,Danish
+MON,Monegasque
+NED,Dutch
+GER,German
+RSA,South African
+SUI,Swiss
+POR,Portuguese
+URS,Soviet
+ROC,Russian
+BUL,Bulgarian
