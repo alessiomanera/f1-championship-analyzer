@@ -1,0 +1,1173 @@
+round_name,round_number,round_race_number,round_date,circuit_id,round_id
+British Grand Prix,1.0,1.0,1950-05-13,1,1
+Monaco Grand Prix,2.0,2.0,1950-05-21,2,2
+Indianapolis 500,3.0,3.0,1950-05-30,3,3
+Swiss Grand Prix,4.0,4.0,1950-06-04,4,4
+Belgian Grand Prix,5.0,5.0,1950-06-18,5,5
+French Grand Prix,6.0,6.0,1950-07-02,6,6
+Italian Grand Prix,7.0,7.0,1950-09-03,7,7
+Swiss Grand Prix,1.0,8.0,1951-05-27,4,8
+Indianapolis 500,2.0,9.0,1951-05-30,3,9
+Belgian Grand Prix,3.0,10.0,1951-06-17,5,10
+French Grand Prix,4.0,11.0,1951-07-01,6,11
+British Grand Prix,5.0,12.0,1951-07-14,1,12
+German Grand Prix,6.0,13.0,1951-07-29,8,13
+Italian Grand Prix,7.0,14.0,1951-09-16,7,14
+Spanish Grand Prix,8.0,15.0,1951-10-28,9,15
+Swiss Grand Prix,1.0,16.0,1952-05-18,4,16
+Indianapolis 500,2.0,17.0,1952-05-30,3,17
+Belgian Grand Prix,3.0,18.0,1952-06-22,5,18
+French Grand Prix,4.0,19.0,1952-07-06,10,19
+British Grand Prix,5.0,20.0,1952-07-19,1,20
+German Grand Prix,6.0,21.0,1952-08-03,8,21
+Dutch Grand Prix,7.0,22.0,1952-08-17,11,22
+Italian Grand Prix,8.0,23.0,1952-09-07,7,23
+Argentine Grand Prix,1.0,24.0,1953-01-18,12,24
+Indianapolis 500,2.0,25.0,1953-05-30,3,25
+Dutch Grand Prix,3.0,26.0,1953-06-07,11,26
+Belgian Grand Prix,4.0,27.0,1953-06-21,5,27
+French Grand Prix,5.0,28.0,1953-07-05,6,28
+British Grand Prix,6.0,29.0,1953-07-18,1,29
+German Grand Prix,7.0,30.0,1953-08-02,8,30
+Swiss Grand Prix,8.0,31.0,1953-08-23,4,31
+Italian Grand Prix,9.0,32.0,1953-09-13,7,32
+Argentine Grand Prix,1.0,33.0,1954-01-17,12,33
+Indianapolis 500,2.0,34.0,1954-05-31,3,34
+Belgian Grand Prix,3.0,35.0,1954-06-20,5,35
+French Grand Prix,4.0,36.0,1954-07-04,6,36
+British Grand Prix,5.0,37.0,1954-07-17,1,37
+German Grand Prix,6.0,38.0,1954-08-01,8,38
+Swiss Grand Prix,7.0,39.0,1954-08-22,4,39
+Italian Grand Prix,8.0,40.0,1954-09-05,7,40
+Spanish Grand Prix,9.0,41.0,1954-10-24,9,41
+Argentine Grand Prix,1.0,42.0,1955-01-16,12,42
+Monaco Grand Prix,2.0,43.0,1955-05-22,2,43
+Indianapolis 500,3.0,44.0,1955-05-30,3,44
+Belgian Grand Prix,4.0,45.0,1955-06-05,5,45
+Dutch Grand Prix,5.0,46.0,1955-06-19,11,46
+British Grand Prix,6.0,47.0,1955-07-16,13,47
+Italian Grand Prix,7.0,48.0,1955-09-11,7,48
+Argentine Grand Prix,1.0,49.0,1956-01-22,12,49
+Monaco Grand Prix,2.0,50.0,1956-05-13,2,50
+Indianapolis 500,3.0,51.0,1956-05-30,3,51
+Belgian Grand Prix,4.0,52.0,1956-06-03,5,52
+French Grand Prix,5.0,53.0,1956-07-01,6,53
+British Grand Prix,6.0,54.0,1956-07-14,1,54
+German Grand Prix,7.0,55.0,1956-08-05,8,55
+Italian Grand Prix,8.0,56.0,1956-09-02,7,56
+Argentine Grand Prix,1.0,57.0,1957-01-13,12,57
+Monaco Grand Prix,2.0,58.0,1957-05-19,2,58
+Indianapolis 500,3.0,59.0,1957-05-30,3,59
+French Grand Prix,4.0,60.0,1957-07-07,10,60
+British Grand Prix,5.0,61.0,1957-07-20,13,61
+German Grand Prix,6.0,62.0,1957-08-04,8,62
+Pescara Grand Prix,7.0,63.0,1957-08-18,14,63
+Italian Grand Prix,8.0,64.0,1957-09-08,7,64
+Argentine Grand Prix,1.0,65.0,1958-01-19,12,65
+Monaco Grand Prix,2.0,66.0,1958-05-18,2,66
+Dutch Grand Prix,3.0,67.0,1958-05-26,11,67
+Indianapolis 500,4.0,68.0,1958-05-30,3,68
+Belgian Grand Prix,5.0,69.0,1958-06-15,5,69
+French Grand Prix,6.0,70.0,1958-07-06,6,70
+British Grand Prix,7.0,71.0,1958-07-19,1,71
+German Grand Prix,8.0,72.0,1958-08-03,8,72
+Portuguese Grand Prix,9.0,73.0,1958-08-24,15,73
+Italian Grand Prix,10.0,74.0,1958-09-07,7,74
+Moroccan Grand Prix,11.0,75.0,1958-10-19,16,75
+Monaco Grand Prix,1.0,76.0,1959-05-10,2,76
+Indianapolis 500,2.0,77.0,1959-05-30,3,77
+Dutch Grand Prix,3.0,78.0,1959-05-31,11,78
+French Grand Prix,4.0,79.0,1959-07-05,6,79
+British Grand Prix,5.0,80.0,1959-07-18,13,80
+German Grand Prix,6.0,81.0,1959-08-02,17,81
+Portuguese Grand Prix,7.0,82.0,1959-08-23,18,82
+Italian Grand Prix,8.0,83.0,1959-09-13,7,83
+United States Grand Prix,9.0,84.0,1959-12-12,19,84
+Argentine Grand Prix,1.0,85.0,1960-02-07,12,85
+Monaco Grand Prix,2.0,86.0,1960-05-29,2,86
+Indianapolis 500,3.0,87.0,1960-05-30,3,87
+Dutch Grand Prix,4.0,88.0,1960-06-06,11,88
+Belgian Grand Prix,5.0,89.0,1960-06-19,5,89
+French Grand Prix,6.0,90.0,1960-07-03,6,90
+British Grand Prix,7.0,91.0,1960-07-16,1,91
+Portuguese Grand Prix,8.0,92.0,1960-08-14,15,92
+Italian Grand Prix,9.0,93.0,1960-09-04,7,93
+United States Grand Prix,10.0,94.0,1960-11-20,20,94
+Monaco Grand Prix,1.0,95.0,1961-05-14,2,95
+Dutch Grand Prix,2.0,96.0,1961-05-22,11,96
+Belgian Grand Prix,3.0,97.0,1961-06-18,5,97
+French Grand Prix,4.0,98.0,1961-07-02,6,98
+British Grand Prix,5.0,99.0,1961-07-15,13,99
+German Grand Prix,6.0,100.0,1961-08-06,8,100
+Italian Grand Prix,7.0,101.0,1961-09-10,7,101
+United States Grand Prix,8.0,102.0,1961-10-08,21,102
+Dutch Grand Prix,1.0,103.0,1962-05-20,11,103
+Monaco Grand Prix,2.0,104.0,1962-06-03,2,104
+Belgian Grand Prix,3.0,105.0,1962-06-17,5,105
+French Grand Prix,4.0,106.0,1962-07-08,10,106
+British Grand Prix,5.0,107.0,1962-07-21,13,107
+German Grand Prix,6.0,108.0,1962-08-05,8,108
+Italian Grand Prix,7.0,109.0,1962-09-16,7,109
+United States Grand Prix,8.0,110.0,1962-10-07,21,110
+South African Grand Prix,9.0,111.0,1962-12-29,22,111
+Monaco Grand Prix,1.0,112.0,1963-05-26,2,112
+Belgian Grand Prix,2.0,113.0,1963-06-09,5,113
+Dutch Grand Prix,3.0,114.0,1963-06-23,11,114
+French Grand Prix,4.0,115.0,1963-06-30,6,115
+British Grand Prix,5.0,116.0,1963-07-20,1,116
+German Grand Prix,6.0,117.0,1963-08-04,8,117
+Italian Grand Prix,7.0,118.0,1963-09-08,7,118
+United States Grand Prix,8.0,119.0,1963-10-06,21,119
+Mexican Grand Prix,9.0,120.0,1963-10-27,23,120
+South African Grand Prix,10.0,121.0,1963-12-28,22,121
+Monaco Grand Prix,1.0,122.0,1964-05-10,2,122
+Dutch Grand Prix,2.0,123.0,1964-05-24,11,123
+Belgian Grand Prix,3.0,124.0,1964-06-14,5,124
+French Grand Prix,4.0,125.0,1964-06-28,10,125
+British Grand Prix,5.0,126.0,1964-07-11,24,126
+German Grand Prix,6.0,127.0,1964-08-02,8,127
+Austrian Grand Prix,7.0,128.0,1964-08-23,25,128
+Italian Grand Prix,8.0,129.0,1964-09-06,7,129
+United States Grand Prix,9.0,130.0,1964-10-04,21,130
+Mexican Grand Prix,10.0,131.0,1964-10-25,23,131
+South African Grand Prix,1.0,132.0,1965-01-01,22,132
+Monaco Grand Prix,2.0,133.0,1965-05-30,2,133
+Belgian Grand Prix,3.0,134.0,1965-06-13,5,134
+French Grand Prix,4.0,135.0,1965-06-27,26,135
+British Grand Prix,5.0,136.0,1965-07-10,1,136
+Dutch Grand Prix,6.0,137.0,1965-07-18,11,137
+German Grand Prix,7.0,138.0,1965-08-01,8,138
+Italian Grand Prix,8.0,139.0,1965-09-12,7,139
+United States Grand Prix,9.0,140.0,1965-10-03,21,140
+Mexican Grand Prix,10.0,141.0,1965-10-24,23,141
+Monaco Grand Prix,1.0,142.0,1966-05-22,2,142
+Belgian Grand Prix,2.0,143.0,1966-06-12,5,143
+French Grand Prix,3.0,144.0,1966-07-03,6,144
+British Grand Prix,4.0,145.0,1966-07-16,24,145
+Dutch Grand Prix,5.0,146.0,1966-07-24,11,146
+German Grand Prix,6.0,147.0,1966-08-07,8,147
+Italian Grand Prix,7.0,148.0,1966-09-04,7,148
+United States Grand Prix,8.0,149.0,1966-10-02,21,149
+Mexican Grand Prix,9.0,150.0,1966-10-23,23,150
+South African Grand Prix,1.0,151.0,1967-01-02,27,151
+Monaco Grand Prix,2.0,152.0,1967-05-07,2,152
+Dutch Grand Prix,3.0,153.0,1967-06-04,11,153
+Belgian Grand Prix,4.0,154.0,1967-06-18,5,154
+French Grand Prix,5.0,155.0,1967-07-02,28,155
+British Grand Prix,6.0,156.0,1967-07-15,1,156
+German Grand Prix,7.0,157.0,1967-08-06,8,157
+Canadian Grand Prix,8.0,158.0,1967-08-27,29,158
+Italian Grand Prix,9.0,159.0,1967-09-10,7,159
+United States Grand Prix,10.0,160.0,1967-10-01,21,160
+Mexican Grand Prix,11.0,161.0,1967-10-22,23,161
+South African Grand Prix,1.0,162.0,1968-01-01,27,162
+Spanish Grand Prix,2.0,163.0,1968-05-12,30,163
+Monaco Grand Prix,3.0,164.0,1968-05-26,2,164
+Belgian Grand Prix,4.0,165.0,1968-06-09,5,165
+Dutch Grand Prix,5.0,166.0,1968-06-23,11,166
+French Grand Prix,6.0,167.0,1968-07-07,10,167
+British Grand Prix,7.0,168.0,1968-07-20,24,168
+German Grand Prix,8.0,169.0,1968-08-04,8,169
+Italian Grand Prix,9.0,170.0,1968-09-08,7,170
+Canadian Grand Prix,10.0,171.0,1968-09-22,31,171
+United States Grand Prix,11.0,172.0,1968-10-06,21,172
+Mexican Grand Prix,12.0,173.0,1968-11-03,23,173
+South African Grand Prix,1.0,174.0,1969-03-01,27,174
+Spanish Grand Prix,2.0,175.0,1969-05-04,32,175
+Monaco Grand Prix,3.0,176.0,1969-05-18,2,176
+Dutch Grand Prix,4.0,177.0,1969-06-21,11,177
+French Grand Prix,5.0,178.0,1969-07-06,26,178
+British Grand Prix,6.0,179.0,1969-07-19,1,179
+German Grand Prix,7.0,180.0,1969-08-03,8,180
+Italian Grand Prix,8.0,181.0,1969-09-07,7,181
+Canadian Grand Prix,9.0,182.0,1969-09-20,29,182
+United States Grand Prix,10.0,183.0,1969-10-05,21,183
+Mexican Grand Prix,11.0,184.0,1969-10-19,23,184
+South African Grand Prix,1.0,185.0,1970-03-07,27,185
+Spanish Grand Prix,2.0,186.0,1970-04-19,30,186
+Monaco Grand Prix,3.0,187.0,1970-05-10,2,187
+Belgian Grand Prix,4.0,188.0,1970-06-07,5,188
+Dutch Grand Prix,5.0,189.0,1970-06-21,11,189
+French Grand Prix,6.0,190.0,1970-07-05,26,190
+British Grand Prix,7.0,191.0,1970-07-18,24,191
+German Grand Prix,8.0,192.0,1970-08-02,33,192
+Austrian Grand Prix,9.0,193.0,1970-08-16,34,193
+Italian Grand Prix,10.0,194.0,1970-09-06,7,194
+Canadian Grand Prix,11.0,195.0,1970-09-20,31,195
+United States Grand Prix,12.0,196.0,1970-10-04,21,196
+Mexican Grand Prix,13.0,197.0,1970-10-25,23,197
+South African Grand Prix,1.0,198.0,1971-03-06,27,198
+Spanish Grand Prix,2.0,199.0,1971-04-18,32,199
+Monaco Grand Prix,3.0,200.0,1971-05-23,2,200
+Dutch Grand Prix,4.0,201.0,1971-06-20,11,201
+French Grand Prix,5.0,202.0,1971-07-04,35,202
+British Grand Prix,6.0,203.0,1971-07-17,1,203
+German Grand Prix,7.0,204.0,1971-08-01,8,204
+Austrian Grand Prix,8.0,205.0,1971-08-15,34,205
+Italian Grand Prix,9.0,206.0,1971-09-05,7,206
+Canadian Grand Prix,10.0,207.0,1971-09-19,29,207
+United States Grand Prix,11.0,208.0,1971-10-03,21,208
+Argentine Grand Prix,1.0,209.0,1972-01-23,12,209
+South African Grand Prix,2.0,210.0,1972-03-04,27,210
+Spanish Grand Prix,3.0,211.0,1972-05-01,30,211
+Monaco Grand Prix,4.0,212.0,1972-05-14,2,212
+Belgian Grand Prix,5.0,213.0,1972-06-04,36,213
+French Grand Prix,6.0,214.0,1972-07-02,26,214
+British Grand Prix,7.0,215.0,1972-07-15,24,215
+German Grand Prix,8.0,216.0,1972-07-30,8,216
+Austrian Grand Prix,9.0,217.0,1972-08-13,34,217
+Italian Grand Prix,10.0,218.0,1972-09-10,7,218
+Canadian Grand Prix,11.0,219.0,1972-09-24,29,219
+United States Grand Prix,12.0,220.0,1972-10-08,21,220
+Argentine Grand Prix,1.0,221.0,1973-01-28,12,221
+Brazilian Grand Prix,2.0,222.0,1973-02-11,37,222
+South African Grand Prix,3.0,223.0,1973-03-03,27,223
+Spanish Grand Prix,4.0,224.0,1973-04-29,32,224
+Belgian Grand Prix,5.0,225.0,1973-05-20,38,225
+Monaco Grand Prix,6.0,226.0,1973-06-03,2,226
+Swedish Grand Prix,7.0,227.0,1973-06-17,39,227
+French Grand Prix,8.0,228.0,1973-07-01,35,228
+British Grand Prix,9.0,229.0,1973-07-14,1,229
+Dutch Grand Prix,10.0,230.0,1973-07-29,11,230
+German Grand Prix,11.0,231.0,1973-08-05,8,231
+Austrian Grand Prix,12.0,232.0,1973-08-19,34,232
+Italian Grand Prix,13.0,233.0,1973-09-09,7,233
+Canadian Grand Prix,14.0,234.0,1973-09-23,29,234
+United States Grand Prix,15.0,235.0,1973-10-07,21,235
+Argentine Grand Prix,1.0,236.0,1974-01-13,12,236
+Brazilian Grand Prix,2.0,237.0,1974-01-27,37,237
+South African Grand Prix,3.0,238.0,1974-03-30,27,238
+Spanish Grand Prix,4.0,239.0,1974-04-28,30,239
+Belgian Grand Prix,5.0,240.0,1974-05-12,36,240
+Monaco Grand Prix,6.0,241.0,1974-05-26,2,241
+Swedish Grand Prix,7.0,242.0,1974-06-09,39,242
+Dutch Grand Prix,8.0,243.0,1974-06-23,11,243
+French Grand Prix,9.0,244.0,1974-07-07,40,244
+British Grand Prix,10.0,245.0,1974-07-20,24,245
+German Grand Prix,11.0,246.0,1974-08-04,8,246
+Austrian Grand Prix,12.0,247.0,1974-08-18,34,247
+Italian Grand Prix,13.0,248.0,1974-09-08,7,248
+Canadian Grand Prix,14.0,249.0,1974-09-22,29,249
+United States Grand Prix,15.0,250.0,1974-10-06,21,250
+Argentine Grand Prix,1.0,251.0,1975-01-12,12,251
+Brazilian Grand Prix,2.0,252.0,1975-01-26,37,252
+South African Grand Prix,3.0,253.0,1975-03-01,27,253
+Spanish Grand Prix,4.0,254.0,1975-04-27,32,254
+Monaco Grand Prix,5.0,255.0,1975-05-11,2,255
+Belgian Grand Prix,6.0,256.0,1975-05-25,38,256
+Swedish Grand Prix,7.0,257.0,1975-06-08,39,257
+Dutch Grand Prix,8.0,258.0,1975-06-22,11,258
+French Grand Prix,9.0,259.0,1975-07-06,35,259
+British Grand Prix,10.0,260.0,1975-07-19,1,260
+German Grand Prix,11.0,261.0,1975-08-03,8,261
+Austrian Grand Prix,12.0,262.0,1975-08-17,34,262
+Italian Grand Prix,13.0,263.0,1975-09-07,7,263
+United States Grand Prix,14.0,264.0,1975-10-05,21,264
+Brazilian Grand Prix,1.0,265.0,1976-01-25,37,265
+South African Grand Prix,2.0,266.0,1976-03-06,27,266
+United States Grand Prix West,3.0,267.0,1976-03-28,41,267
+Spanish Grand Prix,4.0,268.0,1976-05-02,30,268
+Belgian Grand Prix,5.0,269.0,1976-05-16,38,269
+Monaco Grand Prix,6.0,270.0,1976-05-30,2,270
+Swedish Grand Prix,7.0,271.0,1976-06-13,39,271
+French Grand Prix,8.0,272.0,1976-07-04,35,272
+British Grand Prix,9.0,273.0,1976-07-18,24,273
+German Grand Prix,10.0,274.0,1976-08-01,8,274
+Austrian Grand Prix,11.0,275.0,1976-08-15,34,275
+Dutch Grand Prix,12.0,276.0,1976-08-29,11,276
+Italian Grand Prix,13.0,277.0,1976-09-12,7,277
+Canadian Grand Prix,14.0,278.0,1976-10-03,29,278
+United States Grand Prix,15.0,279.0,1976-10-10,21,279
+Japanese Grand Prix,16.0,280.0,1976-10-24,42,280
+Argentine Grand Prix,1.0,281.0,1977-01-09,12,281
+Brazilian Grand Prix,2.0,282.0,1977-01-23,37,282
+South African Grand Prix,3.0,283.0,1977-03-05,27,283
+United States Grand Prix West,4.0,284.0,1977-04-03,41,284
+Spanish Grand Prix,5.0,285.0,1977-05-08,30,285
+Monaco Grand Prix,6.0,286.0,1977-05-22,2,286
+Belgian Grand Prix,7.0,287.0,1977-06-05,38,287
+Swedish Grand Prix,8.0,288.0,1977-06-19,39,288
+French Grand Prix,9.0,289.0,1977-07-03,40,289
+British Grand Prix,10.0,290.0,1977-07-16,1,290
+German Grand Prix,11.0,291.0,1977-07-31,33,291
+Austrian Grand Prix,12.0,292.0,1977-08-14,34,292
+Dutch Grand Prix,13.0,293.0,1977-08-28,11,293
+Italian Grand Prix,14.0,294.0,1977-09-11,7,294
+United States Grand Prix,15.0,295.0,1977-10-02,21,295
+Canadian Grand Prix,16.0,296.0,1977-10-09,29,296
+Japanese Grand Prix,17.0,297.0,1977-10-23,42,297
+Argentine Grand Prix,1.0,298.0,1978-01-15,12,298
+Brazilian Grand Prix,2.0,299.0,1978-01-29,43,299
+South African Grand Prix,3.0,300.0,1978-03-04,27,300
+United States Grand Prix West,4.0,301.0,1978-04-02,41,301
+Monaco Grand Prix,5.0,302.0,1978-05-07,2,302
+Belgian Grand Prix,6.0,303.0,1978-05-21,38,303
+Spanish Grand Prix,7.0,304.0,1978-06-04,30,304
+Swedish Grand Prix,8.0,305.0,1978-06-17,39,305
+French Grand Prix,9.0,306.0,1978-07-02,35,306
+British Grand Prix,10.0,307.0,1978-07-16,24,307
+German Grand Prix,11.0,308.0,1978-07-30,33,308
+Austrian Grand Prix,12.0,309.0,1978-08-13,34,309
+Dutch Grand Prix,13.0,310.0,1978-08-27,11,310
+Italian Grand Prix,14.0,311.0,1978-09-10,7,311
+United States Grand Prix,15.0,312.0,1978-10-01,21,312
+Canadian Grand Prix,16.0,313.0,1978-10-08,44,313
+Argentine Grand Prix,1.0,314.0,1979-01-21,12,314
+Brazilian Grand Prix,2.0,315.0,1979-02-04,37,315
+South African Grand Prix,3.0,316.0,1979-03-03,27,316
+United States Grand Prix West,4.0,317.0,1979-04-08,41,317
+Spanish Grand Prix,5.0,318.0,1979-04-29,30,318
+Belgian Grand Prix,6.0,319.0,1979-05-13,38,319
+Monaco Grand Prix,7.0,320.0,1979-05-27,2,320
+French Grand Prix,8.0,321.0,1979-07-01,40,321
+British Grand Prix,9.0,322.0,1979-07-14,1,322
+German Grand Prix,10.0,323.0,1979-07-29,33,323
+Austrian Grand Prix,11.0,324.0,1979-08-12,34,324
+Dutch Grand Prix,12.0,325.0,1979-08-26,11,325
+Italian Grand Prix,13.0,326.0,1979-09-09,7,326
+Canadian Grand Prix,14.0,327.0,1979-09-30,44,327
+United States Grand Prix,15.0,328.0,1979-10-07,21,328
+Argentine Grand Prix,1.0,329.0,1980-01-13,12,329
+Brazilian Grand Prix,2.0,330.0,1980-01-27,37,330
+South African Grand Prix,3.0,331.0,1980-03-01,27,331
+United States Grand Prix West,4.0,332.0,1980-03-30,41,332
+Belgian Grand Prix,5.0,333.0,1980-05-04,38,333
+Monaco Grand Prix,6.0,334.0,1980-05-18,2,334
+French Grand Prix,7.0,335.0,1980-06-29,35,335
+British Grand Prix,8.0,336.0,1980-07-13,24,336
+German Grand Prix,9.0,337.0,1980-08-10,33,337
+Austrian Grand Prix,10.0,338.0,1980-08-17,34,338
+Dutch Grand Prix,11.0,339.0,1980-08-31,11,339
+Italian Grand Prix,12.0,340.0,1980-09-14,45,340
+Canadian Grand Prix,13.0,341.0,1980-09-28,44,341
+United States Grand Prix,14.0,342.0,1980-10-05,21,342
+United States Grand Prix West,1.0,343.0,1981-03-15,41,343
+Brazilian Grand Prix,2.0,344.0,1981-03-29,43,344
+Argentine Grand Prix,3.0,345.0,1981-04-12,12,345
+San Marino Grand Prix,4.0,346.0,1981-05-03,45,346
+Belgian Grand Prix,5.0,347.0,1981-05-17,38,347
+Monaco Grand Prix,6.0,348.0,1981-05-31,2,348
+Spanish Grand Prix,7.0,349.0,1981-06-21,30,349
+French Grand Prix,8.0,350.0,1981-07-05,40,350
+British Grand Prix,9.0,351.0,1981-07-18,1,351
+German Grand Prix,10.0,352.0,1981-08-02,33,352
+Austrian Grand Prix,11.0,353.0,1981-08-16,34,353
+Dutch Grand Prix,12.0,354.0,1981-08-30,11,354
+Italian Grand Prix,13.0,355.0,1981-09-13,7,355
+Canadian Grand Prix,14.0,356.0,1981-09-27,44,356
+Caesars Palace Grand Prix,15.0,357.0,1981-10-17,46,357
+South African Grand Prix,1.0,358.0,1982-01-23,27,358
+Brazilian Grand Prix,2.0,359.0,1982-03-21,43,359
+United States Grand Prix West,3.0,360.0,1982-04-04,41,360
+San Marino Grand Prix,4.0,361.0,1982-04-25,45,361
+Belgian Grand Prix,5.0,362.0,1982-05-09,38,362
+Monaco Grand Prix,6.0,363.0,1982-05-23,2,363
+Detroit Grand Prix,7.0,364.0,1982-06-06,47,364
+Canadian Grand Prix,8.0,365.0,1982-06-13,44,365
+Dutch Grand Prix,9.0,366.0,1982-07-03,11,366
+British Grand Prix,10.0,367.0,1982-07-18,24,367
+French Grand Prix,11.0,368.0,1982-07-25,35,368
+German Grand Prix,12.0,369.0,1982-08-08,33,369
+Austrian Grand Prix,13.0,370.0,1982-08-15,34,370
+Swiss Grand Prix,14.0,371.0,1982-08-29,40,371
+Italian Grand Prix,15.0,372.0,1982-09-12,7,372
+Caesars Palace Grand Prix,16.0,373.0,1982-09-25,46,373
+Brazilian Grand Prix,1.0,374.0,1983-03-13,43,374
+United States Grand Prix West,2.0,375.0,1983-03-27,41,375
+French Grand Prix,3.0,376.0,1983-04-17,35,376
+San Marino Grand Prix,4.0,377.0,1983-05-01,45,377
+Monaco Grand Prix,5.0,378.0,1983-05-15,2,378
+Belgian Grand Prix,6.0,379.0,1983-05-22,5,379
+Detroit Grand Prix,7.0,380.0,1983-06-05,47,380
+Canadian Grand Prix,8.0,381.0,1983-06-12,44,381
+British Grand Prix,9.0,382.0,1983-07-16,1,382
+German Grand Prix,10.0,383.0,1983-08-07,33,383
+Austrian Grand Prix,11.0,384.0,1983-08-14,34,384
+Dutch Grand Prix,12.0,385.0,1983-08-28,11,385
+Italian Grand Prix,13.0,386.0,1983-09-11,7,386
+European Grand Prix,14.0,387.0,1983-09-25,24,387
+South African Grand Prix,15.0,388.0,1983-10-15,27,388
+Brazilian Grand Prix,1.0,389.0,1984-03-25,43,389
+South African Grand Prix,2.0,390.0,1984-04-07,27,390
+Belgian Grand Prix,3.0,391.0,1984-04-29,38,391
+San Marino Grand Prix,4.0,392.0,1984-05-06,45,392
+French Grand Prix,5.0,393.0,1984-05-20,40,393
+Monaco Grand Prix,6.0,394.0,1984-06-03,2,394
+Canadian Grand Prix,7.0,395.0,1984-06-17,44,395
+Detroit Grand Prix,8.0,396.0,1984-06-24,47,396
+Dallas Grand Prix,9.0,397.0,1984-07-08,48,397
+British Grand Prix,10.0,398.0,1984-07-22,24,398
+German Grand Prix,11.0,399.0,1984-08-05,33,399
+Austrian Grand Prix,12.0,400.0,1984-08-19,34,400
+Dutch Grand Prix,13.0,401.0,1984-08-26,11,401
+Italian Grand Prix,14.0,402.0,1984-09-09,7,402
+European Grand Prix,15.0,403.0,1984-10-07,8,403
+Portuguese Grand Prix,16.0,404.0,1984-10-21,49,404
+Brazilian Grand Prix,1.0,405.0,1985-04-07,43,405
+Portuguese Grand Prix,2.0,406.0,1985-04-21,49,406
+San Marino Grand Prix,3.0,407.0,1985-05-05,45,407
+Monaco Grand Prix,4.0,408.0,1985-05-19,2,408
+Canadian Grand Prix,5.0,409.0,1985-06-16,44,409
+Detroit Grand Prix,6.0,410.0,1985-06-23,47,410
+French Grand Prix,7.0,411.0,1985-07-07,35,411
+British Grand Prix,8.0,412.0,1985-07-21,1,412
+German Grand Prix,9.0,413.0,1985-08-04,8,413
+Austrian Grand Prix,10.0,414.0,1985-08-18,34,414
+Dutch Grand Prix,11.0,415.0,1985-08-25,11,415
+Italian Grand Prix,12.0,416.0,1985-09-08,7,416
+Belgian Grand Prix,13.0,417.0,1985-09-15,5,417
+European Grand Prix,14.0,418.0,1985-10-06,24,418
+South African Grand Prix,15.0,419.0,1985-10-19,27,419
+Australian Grand Prix,16.0,420.0,1985-11-03,50,420
+Brazilian Grand Prix,1.0,421.0,1986-03-23,43,421
+Spanish Grand Prix,2.0,422.0,1986-04-13,51,422
+San Marino Grand Prix,3.0,423.0,1986-04-27,45,423
+Monaco Grand Prix,4.0,424.0,1986-05-11,2,424
+Belgian Grand Prix,5.0,425.0,1986-05-25,5,425
+Canadian Grand Prix,6.0,426.0,1986-06-15,44,426
+Detroit Grand Prix,7.0,427.0,1986-06-22,47,427
+French Grand Prix,8.0,428.0,1986-07-06,35,428
+British Grand Prix,9.0,429.0,1986-07-13,24,429
+German Grand Prix,10.0,430.0,1986-07-27,33,430
+Hungarian Grand Prix,11.0,431.0,1986-08-10,52,431
+Austrian Grand Prix,12.0,432.0,1986-08-17,34,432
+Italian Grand Prix,13.0,433.0,1986-09-07,7,433
+Portuguese Grand Prix,14.0,434.0,1986-09-21,49,434
+Mexican Grand Prix,15.0,435.0,1986-10-12,23,435
+Australian Grand Prix,16.0,436.0,1986-10-26,50,436
+Brazilian Grand Prix,1.0,437.0,1987-04-12,43,437
+San Marino Grand Prix,2.0,438.0,1987-05-03,45,438
+Belgian Grand Prix,3.0,439.0,1987-05-17,5,439
+Monaco Grand Prix,4.0,440.0,1987-05-31,2,440
+Detroit Grand Prix,5.0,441.0,1987-06-21,47,441
+French Grand Prix,6.0,442.0,1987-07-05,35,442
+British Grand Prix,7.0,443.0,1987-07-12,1,443
+German Grand Prix,8.0,444.0,1987-07-26,33,444
+Hungarian Grand Prix,9.0,445.0,1987-08-09,52,445
+Austrian Grand Prix,10.0,446.0,1987-08-16,34,446
+Italian Grand Prix,11.0,447.0,1987-09-06,7,447
+Portuguese Grand Prix,12.0,448.0,1987-09-20,49,448
+Spanish Grand Prix,13.0,449.0,1987-09-27,51,449
+Mexican Grand Prix,14.0,450.0,1987-10-18,23,450
+Japanese Grand Prix,15.0,451.0,1987-11-01,53,451
+Australian Grand Prix,16.0,452.0,1987-11-15,50,452
+Brazilian Grand Prix,1.0,453.0,1988-04-03,43,453
+San Marino Grand Prix,2.0,454.0,1988-05-01,45,454
+Monaco Grand Prix,3.0,455.0,1988-05-15,2,455
+Mexican Grand Prix,4.0,456.0,1988-05-29,23,456
+Canadian Grand Prix,5.0,457.0,1988-06-12,44,457
+Detroit Grand Prix,6.0,458.0,1988-06-19,47,458
+French Grand Prix,7.0,459.0,1988-07-03,35,459
+British Grand Prix,8.0,460.0,1988-07-10,1,460
+German Grand Prix,9.0,461.0,1988-07-24,33,461
+Hungarian Grand Prix,10.0,462.0,1988-08-07,52,462
+Belgian Grand Prix,11.0,463.0,1988-08-28,5,463
+Italian Grand Prix,12.0,464.0,1988-09-11,7,464
+Portuguese Grand Prix,13.0,465.0,1988-09-25,49,465
+Spanish Grand Prix,14.0,466.0,1988-10-02,51,466
+Japanese Grand Prix,15.0,467.0,1988-10-30,53,467
+Australian Grand Prix,16.0,468.0,1988-11-13,50,468
+Brazilian Grand Prix,1.0,469.0,1989-03-26,43,469
+San Marino Grand Prix,2.0,470.0,1989-04-23,45,470
+Monaco Grand Prix,3.0,471.0,1989-05-07,2,471
+Mexican Grand Prix,4.0,472.0,1989-05-28,23,472
+United States Grand Prix,5.0,473.0,1989-06-04,54,473
+Canadian Grand Prix,6.0,474.0,1989-06-18,44,474
+French Grand Prix,7.0,475.0,1989-07-09,35,475
+British Grand Prix,8.0,476.0,1989-07-16,1,476
+German Grand Prix,9.0,477.0,1989-07-30,33,477
+Hungarian Grand Prix,10.0,478.0,1989-08-13,52,478
+Belgian Grand Prix,11.0,479.0,1989-08-27,5,479
+Italian Grand Prix,12.0,480.0,1989-09-10,7,480
+Portuguese Grand Prix,13.0,481.0,1989-09-24,49,481
+Spanish Grand Prix,14.0,482.0,1989-10-01,51,482
+Japanese Grand Prix,15.0,483.0,1989-10-22,53,483
+Australian Grand Prix,16.0,484.0,1989-11-05,50,484
+United States Grand Prix,1.0,485.0,1990-03-11,54,485
+Brazilian Grand Prix,2.0,486.0,1990-03-25,37,486
+San Marino Grand Prix,3.0,487.0,1990-05-13,45,487
+Monaco Grand Prix,4.0,488.0,1990-05-27,2,488
+Canadian Grand Prix,5.0,489.0,1990-06-10,44,489
+Mexican Grand Prix,6.0,490.0,1990-06-24,23,490
+French Grand Prix,7.0,491.0,1990-07-08,35,491
+British Grand Prix,8.0,492.0,1990-07-15,1,492
+German Grand Prix,9.0,493.0,1990-07-29,33,493
+Hungarian Grand Prix,10.0,494.0,1990-08-12,52,494
+Belgian Grand Prix,11.0,495.0,1990-08-26,5,495
+Italian Grand Prix,12.0,496.0,1990-09-09,7,496
+Portuguese Grand Prix,13.0,497.0,1990-09-23,49,497
+Spanish Grand Prix,14.0,498.0,1990-09-30,51,498
+Japanese Grand Prix,15.0,499.0,1990-10-21,53,499
+Australian Grand Prix,16.0,500.0,1990-11-04,50,500
+United States Grand Prix,1.0,501.0,1991-03-10,54,501
+Brazilian Grand Prix,2.0,502.0,1991-03-24,37,502
+San Marino Grand Prix,3.0,503.0,1991-04-28,45,503
+Monaco Grand Prix,4.0,504.0,1991-05-12,2,504
+Canadian Grand Prix,5.0,505.0,1991-06-02,44,505
+Mexican Grand Prix,6.0,506.0,1991-06-16,23,506
+French Grand Prix,7.0,507.0,1991-07-07,55,507
+British Grand Prix,8.0,508.0,1991-07-14,1,508
+German Grand Prix,9.0,509.0,1991-07-28,33,509
+Hungarian Grand Prix,10.0,510.0,1991-08-11,52,510
+Belgian Grand Prix,11.0,511.0,1991-08-25,5,511
+Italian Grand Prix,12.0,512.0,1991-09-08,7,512
+Portuguese Grand Prix,13.0,513.0,1991-09-22,49,513
+Spanish Grand Prix,14.0,514.0,1991-09-29,56,514
+Japanese Grand Prix,15.0,515.0,1991-10-20,53,515
+Australian Grand Prix,16.0,516.0,1991-11-03,50,516
+South African Grand Prix,1.0,517.0,1992-03-01,27,517
+Mexican Grand Prix,2.0,518.0,1992-03-22,23,518
+Brazilian Grand Prix,3.0,519.0,1992-04-05,37,519
+Spanish Grand Prix,4.0,520.0,1992-05-03,56,520
+San Marino Grand Prix,5.0,521.0,1992-05-17,45,521
+Monaco Grand Prix,6.0,522.0,1992-05-31,2,522
+Canadian Grand Prix,7.0,523.0,1992-06-14,44,523
+French Grand Prix,8.0,524.0,1992-07-05,55,524
+British Grand Prix,9.0,525.0,1992-07-12,1,525
+German Grand Prix,10.0,526.0,1992-07-26,33,526
+Hungarian Grand Prix,11.0,527.0,1992-08-16,52,527
+Belgian Grand Prix,12.0,528.0,1992-08-30,5,528
+Italian Grand Prix,13.0,529.0,1992-09-13,7,529
+Portuguese Grand Prix,14.0,530.0,1992-09-27,49,530
+Japanese Grand Prix,15.0,531.0,1992-10-25,53,531
+Australian Grand Prix,16.0,532.0,1992-11-08,50,532
+South African Grand Prix,1.0,533.0,1993-03-14,27,533
+Brazilian Grand Prix,2.0,534.0,1993-03-28,37,534
+European Grand Prix,3.0,535.0,1993-04-11,57,535
+San Marino Grand Prix,4.0,536.0,1993-04-25,45,536
+Spanish Grand Prix,5.0,537.0,1993-05-09,56,537
+Monaco Grand Prix,6.0,538.0,1993-05-23,2,538
+Canadian Grand Prix,7.0,539.0,1993-06-13,44,539
+French Grand Prix,8.0,540.0,1993-07-04,55,540
+British Grand Prix,9.0,541.0,1993-07-11,1,541
+German Grand Prix,10.0,542.0,1993-07-25,33,542
+Hungarian Grand Prix,11.0,543.0,1993-08-15,52,543
+Belgian Grand Prix,12.0,544.0,1993-08-29,5,544
+Italian Grand Prix,13.0,545.0,1993-09-12,7,545
+Portuguese Grand Prix,14.0,546.0,1993-09-26,49,546
+Japanese Grand Prix,15.0,547.0,1993-10-24,53,547
+Australian Grand Prix,16.0,548.0,1993-11-07,50,548
+Brazilian Grand Prix,1.0,549.0,1994-03-27,37,549
+Pacific Grand Prix,2.0,550.0,1994-04-17,58,550
+San Marino Grand Prix,3.0,551.0,1994-05-01,45,551
+Monaco Grand Prix,4.0,552.0,1994-05-15,2,552
+Spanish Grand Prix,5.0,553.0,1994-05-29,56,553
+Canadian Grand Prix,6.0,554.0,1994-06-12,44,554
+French Grand Prix,7.0,555.0,1994-07-03,55,555
+British Grand Prix,8.0,556.0,1994-07-10,1,556
+German Grand Prix,9.0,557.0,1994-07-31,33,557
+Hungarian Grand Prix,10.0,558.0,1994-08-14,52,558
+Belgian Grand Prix,11.0,559.0,1994-08-28,5,559
+Italian Grand Prix,12.0,560.0,1994-09-11,7,560
+Portuguese Grand Prix,13.0,561.0,1994-09-25,49,561
+European Grand Prix,14.0,562.0,1994-10-16,51,562
+Japanese Grand Prix,15.0,563.0,1994-11-06,53,563
+Australian Grand Prix,16.0,564.0,1994-11-13,50,564
+Brazilian Grand Prix,1.0,565.0,1995-03-26,37,565
+Argentine Grand Prix,2.0,566.0,1995-04-09,12,566
+San Marino Grand Prix,3.0,567.0,1995-04-30,45,567
+Spanish Grand Prix,4.0,568.0,1995-05-14,56,568
+Monaco Grand Prix,5.0,569.0,1995-05-28,2,569
+Canadian Grand Prix,6.0,570.0,1995-06-11,44,570
+French Grand Prix,7.0,571.0,1995-07-02,55,571
+British Grand Prix,8.0,572.0,1995-07-16,1,572
+German Grand Prix,9.0,573.0,1995-07-30,33,573
+Hungarian Grand Prix,10.0,574.0,1995-08-13,52,574
+Belgian Grand Prix,11.0,575.0,1995-08-27,5,575
+Italian Grand Prix,12.0,576.0,1995-09-10,7,576
+Portuguese Grand Prix,13.0,577.0,1995-09-24,49,577
+European Grand Prix,14.0,578.0,1995-10-01,8,578
+Pacific Grand Prix,15.0,579.0,1995-10-22,58,579
+Japanese Grand Prix,16.0,580.0,1995-10-29,53,580
+Australian Grand Prix,17.0,581.0,1995-11-12,50,581
+Australian Grand Prix,1.0,582.0,1996-03-10,59,582
+Brazilian Grand Prix,2.0,583.0,1996-03-31,37,583
+Argentine Grand Prix,3.0,584.0,1996-04-07,12,584
+European Grand Prix,4.0,585.0,1996-04-28,8,585
+San Marino Grand Prix,5.0,586.0,1996-05-05,45,586
+Monaco Grand Prix,6.0,587.0,1996-05-19,2,587
+Spanish Grand Prix,7.0,588.0,1996-06-02,56,588
+Canadian Grand Prix,8.0,589.0,1996-06-16,44,589
+French Grand Prix,9.0,590.0,1996-06-30,55,590
+British Grand Prix,10.0,591.0,1996-07-14,1,591
+German Grand Prix,11.0,592.0,1996-07-28,33,592
+Hungarian Grand Prix,12.0,593.0,1996-08-11,52,593
+Belgian Grand Prix,13.0,594.0,1996-08-25,5,594
+Italian Grand Prix,14.0,595.0,1996-09-08,7,595
+Portuguese Grand Prix,15.0,596.0,1996-09-22,49,596
+Japanese Grand Prix,16.0,597.0,1996-10-13,53,597
+Australian Grand Prix,1.0,598.0,1997-03-09,59,598
+Brazilian Grand Prix,2.0,599.0,1997-03-30,37,599
+Argentine Grand Prix,3.0,600.0,1997-04-13,12,600
+San Marino Grand Prix,4.0,601.0,1997-04-27,45,601
+Monaco Grand Prix,5.0,602.0,1997-05-11,2,602
+Spanish Grand Prix,6.0,603.0,1997-05-25,56,603
+Canadian Grand Prix,7.0,604.0,1997-06-15,44,604
+French Grand Prix,8.0,605.0,1997-06-29,55,605
+British Grand Prix,9.0,606.0,1997-07-13,1,606
+German Grand Prix,10.0,607.0,1997-07-27,33,607
+Hungarian Grand Prix,11.0,608.0,1997-08-10,52,608
+Belgian Grand Prix,12.0,609.0,1997-08-24,5,609
+Italian Grand Prix,13.0,610.0,1997-09-07,7,610
+Austrian Grand Prix,14.0,611.0,1997-09-21,34,611
+Luxembourg Grand Prix,15.0,612.0,1997-09-28,8,612
+Japanese Grand Prix,16.0,613.0,1997-10-12,53,613
+European Grand Prix,17.0,614.0,1997-10-26,51,614
+Australian Grand Prix,1.0,615.0,1998-03-08,59,615
+Brazilian Grand Prix,2.0,616.0,1998-03-29,37,616
+Argentine Grand Prix,3.0,617.0,1998-04-12,12,617
+San Marino Grand Prix,4.0,618.0,1998-04-26,45,618
+Spanish Grand Prix,5.0,619.0,1998-05-10,56,619
+Monaco Grand Prix,6.0,620.0,1998-05-24,2,620
+Canadian Grand Prix,7.0,621.0,1998-06-07,44,621
+French Grand Prix,8.0,622.0,1998-06-28,55,622
+British Grand Prix,9.0,623.0,1998-07-12,1,623
+Austrian Grand Prix,10.0,624.0,1998-07-26,34,624
+German Grand Prix,11.0,625.0,1998-08-02,33,625
+Hungarian Grand Prix,12.0,626.0,1998-08-16,52,626
+Belgian Grand Prix,13.0,627.0,1998-08-30,5,627
+Italian Grand Prix,14.0,628.0,1998-09-13,7,628
+Luxembourg Grand Prix,15.0,629.0,1998-09-27,8,629
+Japanese Grand Prix,16.0,630.0,1998-11-01,53,630
+Australian Grand Prix,1.0,631.0,1999-03-07,59,631
+Brazilian Grand Prix,2.0,632.0,1999-04-11,37,632
+San Marino Grand Prix,3.0,633.0,1999-05-02,45,633
+Monaco Grand Prix,4.0,634.0,1999-05-16,2,634
+Spanish Grand Prix,5.0,635.0,1999-05-30,56,635
+Canadian Grand Prix,6.0,636.0,1999-06-13,44,636
+French Grand Prix,7.0,637.0,1999-06-27,55,637
+British Grand Prix,8.0,638.0,1999-07-11,1,638
+Austrian Grand Prix,9.0,639.0,1999-07-25,34,639
+German Grand Prix,10.0,640.0,1999-08-01,33,640
+Hungarian Grand Prix,11.0,641.0,1999-08-15,52,641
+Belgian Grand Prix,12.0,642.0,1999-08-29,5,642
+Italian Grand Prix,13.0,643.0,1999-09-12,7,643
+European Grand Prix,14.0,644.0,1999-09-26,8,644
+Malaysian Grand Prix,15.0,645.0,1999-10-17,60,645
+Japanese Grand Prix,16.0,646.0,1999-10-31,53,646
+Australian Grand Prix,1.0,647.0,2000-03-12,59,647
+Brazilian Grand Prix,2.0,648.0,2000-03-26,37,648
+San Marino Grand Prix,3.0,649.0,2000-04-09,45,649
+British Grand Prix,4.0,650.0,2000-04-23,1,650
+Spanish Grand Prix,5.0,651.0,2000-05-07,56,651
+European Grand Prix,6.0,652.0,2000-05-21,8,652
+Monaco Grand Prix,7.0,653.0,2000-06-04,2,653
+Canadian Grand Prix,8.0,654.0,2000-06-18,44,654
+French Grand Prix,9.0,655.0,2000-07-02,55,655
+Austrian Grand Prix,10.0,656.0,2000-07-16,34,656
+German Grand Prix,11.0,657.0,2000-07-30,33,657
+Hungarian Grand Prix,12.0,658.0,2000-08-13,52,658
+Belgian Grand Prix,13.0,659.0,2000-08-27,5,659
+Italian Grand Prix,14.0,660.0,2000-09-10,7,660
+United States Grand Prix,15.0,661.0,2000-09-24,3,661
+Japanese Grand Prix,16.0,662.0,2000-10-08,53,662
+Malaysian Grand Prix,17.0,663.0,2000-10-22,60,663
+Australian Grand Prix,1.0,664.0,2001-03-04,59,664
+Malaysian Grand Prix,2.0,665.0,2001-03-18,60,665
+Brazilian Grand Prix,3.0,666.0,2001-04-01,37,666
+San Marino Grand Prix,4.0,667.0,2001-04-15,45,667
+Spanish Grand Prix,5.0,668.0,2001-04-29,56,668
+Austrian Grand Prix,6.0,669.0,2001-05-13,34,669
+Monaco Grand Prix,7.0,670.0,2001-05-27,2,670
+Canadian Grand Prix,8.0,671.0,2001-06-10,44,671
+European Grand Prix,9.0,672.0,2001-06-24,8,672
+French Grand Prix,10.0,673.0,2001-07-01,55,673
+British Grand Prix,11.0,674.0,2001-07-15,1,674
+German Grand Prix,12.0,675.0,2001-07-29,33,675
+Hungarian Grand Prix,13.0,676.0,2001-08-19,52,676
+Belgian Grand Prix,14.0,677.0,2001-09-02,5,677
+Italian Grand Prix,15.0,678.0,2001-09-16,7,678
+United States Grand Prix,16.0,679.0,2001-09-30,3,679
+Japanese Grand Prix,17.0,680.0,2001-10-14,53,680
+Australian Grand Prix,1.0,681.0,2002-03-03,59,681
+Malaysian Grand Prix,2.0,682.0,2002-03-17,60,682
+Brazilian Grand Prix,3.0,683.0,2002-03-31,37,683
+San Marino Grand Prix,4.0,684.0,2002-04-14,45,684
+Spanish Grand Prix,5.0,685.0,2002-04-28,56,685
+Austrian Grand Prix,6.0,686.0,2002-05-12,34,686
+Monaco Grand Prix,7.0,687.0,2002-05-26,2,687
+Canadian Grand Prix,8.0,688.0,2002-06-09,44,688
+European Grand Prix,9.0,689.0,2002-06-23,8,689
+British Grand Prix,10.0,690.0,2002-07-07,1,690
+French Grand Prix,11.0,691.0,2002-07-21,55,691
+German Grand Prix,12.0,692.0,2002-07-28,33,692
+Hungarian Grand Prix,13.0,693.0,2002-08-18,52,693
+Belgian Grand Prix,14.0,694.0,2002-09-01,5,694
+Italian Grand Prix,15.0,695.0,2002-09-15,7,695
+United States Grand Prix,16.0,696.0,2002-09-29,3,696
+Japanese Grand Prix,17.0,697.0,2002-10-13,53,697
+Australian Grand Prix,1.0,698.0,2003-03-09,59,698
+Malaysian Grand Prix,2.0,699.0,2003-03-23,60,699
+Brazilian Grand Prix,3.0,700.0,2003-04-06,37,700
+San Marino Grand Prix,4.0,701.0,2003-04-20,45,701
+Spanish Grand Prix,5.0,702.0,2003-05-04,56,702
+Austrian Grand Prix,6.0,703.0,2003-05-18,34,703
+Monaco Grand Prix,7.0,704.0,2003-06-01,2,704
+Canadian Grand Prix,8.0,705.0,2003-06-15,44,705
+European Grand Prix,9.0,706.0,2003-06-29,8,706
+French Grand Prix,10.0,707.0,2003-07-06,55,707
+British Grand Prix,11.0,708.0,2003-07-20,1,708
+German Grand Prix,12.0,709.0,2003-08-03,33,709
+Hungarian Grand Prix,13.0,710.0,2003-08-24,52,710
+Italian Grand Prix,14.0,711.0,2003-09-14,7,711
+United States Grand Prix,15.0,712.0,2003-09-28,3,712
+Japanese Grand Prix,16.0,713.0,2003-10-12,53,713
+Australian Grand Prix,1.0,714.0,2004-03-07,59,714
+Malaysian Grand Prix,2.0,715.0,2004-03-21,60,715
+Bahrain Grand Prix,3.0,716.0,2004-04-04,61,716
+San Marino Grand Prix,4.0,717.0,2004-04-25,45,717
+Spanish Grand Prix,5.0,718.0,2004-05-09,56,718
+Monaco Grand Prix,6.0,719.0,2004-05-23,2,719
+European Grand Prix,7.0,720.0,2004-05-30,8,720
+Canadian Grand Prix,8.0,721.0,2004-06-13,44,721
+United States Grand Prix,9.0,722.0,2004-06-20,3,722
+French Grand Prix,10.0,723.0,2004-07-04,55,723
+British Grand Prix,11.0,724.0,2004-07-11,1,724
+German Grand Prix,12.0,725.0,2004-07-25,33,725
+Hungarian Grand Prix,13.0,726.0,2004-08-15,52,726
+Belgian Grand Prix,14.0,727.0,2004-08-29,5,727
+Italian Grand Prix,15.0,728.0,2004-09-12,7,728
+Chinese Grand Prix,16.0,729.0,2004-09-26,62,729
+Japanese Grand Prix,17.0,730.0,2004-10-10,53,730
+Brazilian Grand Prix,18.0,731.0,2004-10-24,37,731
+Australian Grand Prix,1.0,732.0,2005-03-06,59,732
+Malaysian Grand Prix,2.0,733.0,2005-03-20,60,733
+Bahrain Grand Prix,3.0,734.0,2005-04-03,61,734
+San Marino Grand Prix,4.0,735.0,2005-04-24,45,735
+Spanish Grand Prix,5.0,736.0,2005-05-08,56,736
+Monaco Grand Prix,6.0,737.0,2005-05-22,2,737
+European Grand Prix,7.0,738.0,2005-05-29,8,738
+Canadian Grand Prix,8.0,739.0,2005-06-12,44,739
+United States Grand Prix,9.0,740.0,2005-06-19,3,740
+French Grand Prix,10.0,741.0,2005-07-03,55,741
+British Grand Prix,11.0,742.0,2005-07-10,1,742
+German Grand Prix,12.0,743.0,2005-07-24,33,743
+Hungarian Grand Prix,13.0,744.0,2005-07-31,52,744
+Turkish Grand Prix,14.0,745.0,2005-08-21,63,745
+Italian Grand Prix,15.0,746.0,2005-09-04,7,746
+Belgian Grand Prix,16.0,747.0,2005-09-11,5,747
+Brazilian Grand Prix,17.0,748.0,2005-09-25,37,748
+Japanese Grand Prix,18.0,749.0,2005-10-09,53,749
+Chinese Grand Prix,19.0,750.0,2005-10-16,62,750
+Bahrain Grand Prix,1.0,751.0,2006-03-12,61,751
+Malaysian Grand Prix,2.0,752.0,2006-03-19,60,752
+Australian Grand Prix,3.0,753.0,2006-04-02,59,753
+San Marino Grand Prix,4.0,754.0,2006-04-23,45,754
+European Grand Prix,5.0,755.0,2006-05-07,8,755
+Spanish Grand Prix,6.0,756.0,2006-05-14,56,756
+Monaco Grand Prix,7.0,757.0,2006-05-28,2,757
+British Grand Prix,8.0,758.0,2006-06-11,1,758
+Canadian Grand Prix,9.0,759.0,2006-06-25,44,759
+United States Grand Prix,10.0,760.0,2006-07-02,3,760
+French Grand Prix,11.0,761.0,2006-07-16,55,761
+German Grand Prix,12.0,762.0,2006-07-30,33,762
+Hungarian Grand Prix,13.0,763.0,2006-08-06,52,763
+Turkish Grand Prix,14.0,764.0,2006-08-27,63,764
+Italian Grand Prix,15.0,765.0,2006-09-10,7,765
+Chinese Grand Prix,16.0,766.0,2006-10-01,62,766
+Japanese Grand Prix,17.0,767.0,2006-10-08,53,767
+Brazilian Grand Prix,18.0,768.0,2006-10-22,37,768
+Australian Grand Prix,1.0,769.0,2007-03-18,59,769
+Malaysian Grand Prix,2.0,770.0,2007-04-08,60,770
+Bahrain Grand Prix,3.0,771.0,2007-04-15,61,771
+Spanish Grand Prix,4.0,772.0,2007-05-13,56,772
+Monaco Grand Prix,5.0,773.0,2007-05-27,2,773
+Canadian Grand Prix,6.0,774.0,2007-06-10,44,774
+United States Grand Prix,7.0,775.0,2007-06-17,3,775
+French Grand Prix,8.0,776.0,2007-07-01,55,776
+British Grand Prix,9.0,777.0,2007-07-08,1,777
+European Grand Prix,10.0,778.0,2007-07-22,8,778
+Hungarian Grand Prix,11.0,779.0,2007-08-05,52,779
+Turkish Grand Prix,12.0,780.0,2007-08-26,63,780
+Italian Grand Prix,13.0,781.0,2007-09-09,7,781
+Belgian Grand Prix,14.0,782.0,2007-09-16,5,782
+Japanese Grand Prix,15.0,783.0,2007-09-30,42,783
+Chinese Grand Prix,16.0,784.0,2007-10-07,62,784
+Brazilian Grand Prix,17.0,785.0,2007-10-21,37,785
+Australian Grand Prix,1.0,786.0,2008-03-16,59,786
+Malaysian Grand Prix,2.0,787.0,2008-03-23,60,787
+Bahrain Grand Prix,3.0,788.0,2008-04-06,61,788
+Spanish Grand Prix,4.0,789.0,2008-04-27,56,789
+Turkish Grand Prix,5.0,790.0,2008-05-11,63,790
+Monaco Grand Prix,6.0,791.0,2008-05-25,2,791
+Canadian Grand Prix,7.0,792.0,2008-06-08,44,792
+French Grand Prix,8.0,793.0,2008-06-22,55,793
+British Grand Prix,9.0,794.0,2008-07-06,1,794
+German Grand Prix,10.0,795.0,2008-07-20,33,795
+Hungarian Grand Prix,11.0,796.0,2008-08-03,52,796
+European Grand Prix,12.0,797.0,2008-08-24,64,797
+Belgian Grand Prix,13.0,798.0,2008-09-07,5,798
+Italian Grand Prix,14.0,799.0,2008-09-14,7,799
+Singapore Grand Prix,15.0,800.0,2008-09-28,65,800
+Japanese Grand Prix,16.0,801.0,2008-10-12,42,801
+Chinese Grand Prix,17.0,802.0,2008-10-19,62,802
+Brazilian Grand Prix,18.0,803.0,2008-11-02,37,803
+Australian Grand Prix,1.0,804.0,2009-03-29,59,804
+Malaysian Grand Prix,2.0,805.0,2009-04-05,60,805
+Chinese Grand Prix,3.0,806.0,2009-04-19,62,806
+Bahrain Grand Prix,4.0,807.0,2009-04-26,61,807
+Spanish Grand Prix,5.0,808.0,2009-05-10,56,808
+Monaco Grand Prix,6.0,809.0,2009-05-24,2,809
+Turkish Grand Prix,7.0,810.0,2009-06-07,63,810
+British Grand Prix,8.0,811.0,2009-06-21,1,811
+German Grand Prix,9.0,812.0,2009-07-12,8,812
+Hungarian Grand Prix,10.0,813.0,2009-07-26,52,813
+European Grand Prix,11.0,814.0,2009-08-23,64,814
+Belgian Grand Prix,12.0,815.0,2009-08-30,5,815
+Italian Grand Prix,13.0,816.0,2009-09-13,7,816
+Singapore Grand Prix,14.0,817.0,2009-09-27,65,817
+Japanese Grand Prix,15.0,818.0,2009-10-04,53,818
+Brazilian Grand Prix,16.0,819.0,2009-10-18,37,819
+Abu Dhabi Grand Prix,17.0,820.0,2009-11-01,66,820
+Bahrain Grand Prix,1.0,821.0,2010-03-14,61,821
+Australian Grand Prix,2.0,822.0,2010-03-28,59,822
+Malaysian Grand Prix,3.0,823.0,2010-04-04,60,823
+Chinese Grand Prix,4.0,824.0,2010-04-18,62,824
+Spanish Grand Prix,5.0,825.0,2010-05-09,56,825
+Monaco Grand Prix,6.0,826.0,2010-05-16,2,826
+Turkish Grand Prix,7.0,827.0,2010-05-30,63,827
+Canadian Grand Prix,8.0,828.0,2010-06-13,44,828
+European Grand Prix,9.0,829.0,2010-06-27,64,829
+British Grand Prix,10.0,830.0,2010-07-11,1,830
+German Grand Prix,11.0,831.0,2010-07-25,33,831
+Hungarian Grand Prix,12.0,832.0,2010-08-01,52,832
+Belgian Grand Prix,13.0,833.0,2010-08-29,5,833
+Italian Grand Prix,14.0,834.0,2010-09-12,7,834
+Singapore Grand Prix,15.0,835.0,2010-09-26,65,835
+Japanese Grand Prix,16.0,836.0,2010-10-10,53,836
+Korean Grand Prix,17.0,837.0,2010-10-24,67,837
+Brazilian Grand Prix,18.0,838.0,2010-11-07,37,838
+Abu Dhabi Grand Prix,19.0,839.0,2010-11-14,66,839
+Australian Grand Prix,1.0,840.0,2011-03-27,59,840
+Malaysian Grand Prix,2.0,841.0,2011-04-10,60,841
+Chinese Grand Prix,3.0,842.0,2011-04-17,62,842
+Turkish Grand Prix,4.0,843.0,2011-05-08,63,843
+Spanish Grand Prix,5.0,844.0,2011-05-22,56,844
+Monaco Grand Prix,6.0,845.0,2011-05-29,2,845
+Canadian Grand Prix,7.0,846.0,2011-06-12,44,846
+European Grand Prix,8.0,847.0,2011-06-26,64,847
+British Grand Prix,9.0,848.0,2011-07-10,1,848
+German Grand Prix,10.0,849.0,2011-07-24,8,849
+Hungarian Grand Prix,11.0,850.0,2011-07-31,52,850
+Belgian Grand Prix,12.0,851.0,2011-08-28,5,851
+Italian Grand Prix,13.0,852.0,2011-09-11,7,852
+Singapore Grand Prix,14.0,853.0,2011-09-25,65,853
+Japanese Grand Prix,15.0,854.0,2011-10-09,53,854
+Korean Grand Prix,16.0,855.0,2011-10-16,67,855
+Indian Grand Prix,17.0,856.0,2011-10-30,68,856
+Abu Dhabi Grand Prix,18.0,857.0,2011-11-13,66,857
+Brazilian Grand Prix,19.0,858.0,2011-11-27,37,858
+Australian Grand Prix,1.0,859.0,2012-03-18,59,859
+Malaysian Grand Prix,2.0,860.0,2012-03-25,60,860
+Chinese Grand Prix,3.0,861.0,2012-04-15,62,861
+Bahrain Grand Prix,4.0,862.0,2012-04-22,61,862
+Spanish Grand Prix,5.0,863.0,2012-05-13,56,863
+Monaco Grand Prix,6.0,864.0,2012-05-27,2,864
+Canadian Grand Prix,7.0,865.0,2012-06-10,44,865
+European Grand Prix,8.0,866.0,2012-06-24,64,866
+British Grand Prix,9.0,867.0,2012-07-08,1,867
+German Grand Prix,10.0,868.0,2012-07-22,33,868
+Hungarian Grand Prix,11.0,869.0,2012-07-29,52,869
+Belgian Grand Prix,12.0,870.0,2012-09-02,5,870
+Italian Grand Prix,13.0,871.0,2012-09-09,7,871
+Singapore Grand Prix,14.0,872.0,2012-09-23,65,872
+Japanese Grand Prix,15.0,873.0,2012-10-07,53,873
+Korean Grand Prix,16.0,874.0,2012-10-14,67,874
+Indian Grand Prix,17.0,875.0,2012-10-28,68,875
+Abu Dhabi Grand Prix,18.0,876.0,2012-11-04,66,876
+United States Grand Prix,19.0,877.0,2012-11-18,69,877
+Brazilian Grand Prix,20.0,878.0,2012-11-25,37,878
+Australian Grand Prix,1.0,879.0,2013-03-17,59,879
+Malaysian Grand Prix,2.0,880.0,2013-03-24,60,880
+Chinese Grand Prix,3.0,881.0,2013-04-14,62,881
+Bahrain Grand Prix,4.0,882.0,2013-04-21,61,882
+Spanish Grand Prix,5.0,883.0,2013-05-12,56,883
+Monaco Grand Prix,6.0,884.0,2013-05-26,2,884
+Canadian Grand Prix,7.0,885.0,2013-06-09,44,885
+British Grand Prix,8.0,886.0,2013-06-30,1,886
+German Grand Prix,9.0,887.0,2013-07-07,8,887
+Hungarian Grand Prix,10.0,888.0,2013-07-28,52,888
+Belgian Grand Prix,11.0,889.0,2013-08-25,5,889
+Italian Grand Prix,12.0,890.0,2013-09-08,7,890
+Singapore Grand Prix,13.0,891.0,2013-09-22,65,891
+Korean Grand Prix,14.0,892.0,2013-10-06,67,892
+Japanese Grand Prix,15.0,893.0,2013-10-13,53,893
+Indian Grand Prix,16.0,894.0,2013-10-27,68,894
+Abu Dhabi Grand Prix,17.0,895.0,2013-11-03,66,895
+United States Grand Prix,18.0,896.0,2013-11-17,69,896
+Brazilian Grand Prix,19.0,897.0,2013-11-24,37,897
+Australian Grand Prix,1.0,898.0,2014-03-16,59,898
+Malaysian Grand Prix,2.0,899.0,2014-03-30,60,899
+Bahrain Grand Prix,3.0,900.0,2014-04-06,61,900
+Chinese Grand Prix,4.0,901.0,2014-04-20,62,901
+Spanish Grand Prix,5.0,902.0,2014-05-11,56,902
+Monaco Grand Prix,6.0,903.0,2014-05-25,2,903
+Canadian Grand Prix,7.0,904.0,2014-06-08,44,904
+Austrian Grand Prix,8.0,905.0,2014-06-22,34,905
+British Grand Prix,9.0,906.0,2014-07-06,1,906
+German Grand Prix,10.0,907.0,2014-07-20,33,907
+Hungarian Grand Prix,11.0,908.0,2014-07-27,52,908
+Belgian Grand Prix,12.0,909.0,2014-08-24,5,909
+Italian Grand Prix,13.0,910.0,2014-09-07,7,910
+Singapore Grand Prix,14.0,911.0,2014-09-21,65,911
+Japanese Grand Prix,15.0,912.0,2014-10-05,53,912
+Russian Grand Prix,16.0,913.0,2014-10-12,70,913
+United States Grand Prix,17.0,914.0,2014-11-02,69,914
+Brazilian Grand Prix,18.0,915.0,2014-11-09,37,915
+Abu Dhabi Grand Prix,19.0,916.0,2014-11-23,66,916
+Australian Grand Prix,1.0,917.0,2015-03-15,59,917
+Malaysian Grand Prix,2.0,918.0,2015-03-29,60,918
+Chinese Grand Prix,3.0,919.0,2015-04-12,62,919
+Bahrain Grand Prix,4.0,920.0,2015-04-19,61,920
+Spanish Grand Prix,5.0,921.0,2015-05-10,56,921
+Monaco Grand Prix,6.0,922.0,2015-05-24,2,922
+Canadian Grand Prix,7.0,923.0,2015-06-07,44,923
+Austrian Grand Prix,8.0,924.0,2015-06-21,34,924
+British Grand Prix,9.0,925.0,2015-07-05,1,925
+Hungarian Grand Prix,10.0,926.0,2015-07-26,52,926
+Belgian Grand Prix,11.0,927.0,2015-08-23,5,927
+Italian Grand Prix,12.0,928.0,2015-09-06,7,928
+Singapore Grand Prix,13.0,929.0,2015-09-20,65,929
+Japanese Grand Prix,14.0,930.0,2015-09-27,53,930
+Russian Grand Prix,15.0,931.0,2015-10-11,70,931
+United States Grand Prix,16.0,932.0,2015-10-25,69,932
+Mexican Grand Prix,17.0,933.0,2015-11-01,23,933
+Brazilian Grand Prix,18.0,934.0,2015-11-15,37,934
+Abu Dhabi Grand Prix,19.0,935.0,2015-11-29,66,935
+Australian Grand Prix,1.0,936.0,2016-03-20,59,936
+Bahrain Grand Prix,2.0,937.0,2016-04-03,61,937
+Chinese Grand Prix,3.0,938.0,2016-04-17,62,938
+Russian Grand Prix,4.0,939.0,2016-05-01,70,939
+Spanish Grand Prix,5.0,940.0,2016-05-15,56,940
+Monaco Grand Prix,6.0,941.0,2016-05-29,2,941
+Canadian Grand Prix,7.0,942.0,2016-06-12,44,942
+European Grand Prix,8.0,943.0,2016-06-19,71,943
+Austrian Grand Prix,9.0,944.0,2016-07-03,34,944
+British Grand Prix,10.0,945.0,2016-07-10,1,945
+Hungarian Grand Prix,11.0,946.0,2016-07-24,52,946
+German Grand Prix,12.0,947.0,2016-07-31,33,947
+Belgian Grand Prix,13.0,948.0,2016-08-28,5,948
+Italian Grand Prix,14.0,949.0,2016-09-04,7,949
+Singapore Grand Prix,15.0,950.0,2016-09-18,65,950
+Malaysian Grand Prix,16.0,951.0,2016-10-02,60,951
+Japanese Grand Prix,17.0,952.0,2016-10-09,53,952
+United States Grand Prix,18.0,953.0,2016-10-23,69,953
+Mexican Grand Prix,19.0,954.0,2016-10-30,23,954
+Brazilian Grand Prix,20.0,955.0,2016-11-13,37,955
+Abu Dhabi Grand Prix,21.0,956.0,2016-11-27,66,956
+Australian Grand Prix,1.0,957.0,2017-03-26,59,957
+Chinese Grand Prix,2.0,958.0,2017-04-09,62,958
+Bahrain Grand Prix,3.0,959.0,2017-04-16,61,959
+Russian Grand Prix,4.0,960.0,2017-04-30,70,960
+Spanish Grand Prix,5.0,961.0,2017-05-14,56,961
+Monaco Grand Prix,6.0,962.0,2017-05-28,2,962
+Canadian Grand Prix,7.0,963.0,2017-06-11,44,963
+Azerbaijan Grand Prix,8.0,964.0,2017-06-25,71,964
+Austrian Grand Prix,9.0,965.0,2017-07-09,34,965
+British Grand Prix,10.0,966.0,2017-07-16,1,966
+Hungarian Grand Prix,11.0,967.0,2017-07-30,52,967
+Belgian Grand Prix,12.0,968.0,2017-08-27,5,968
+Italian Grand Prix,13.0,969.0,2017-09-03,7,969
+Singapore Grand Prix,14.0,970.0,2017-09-17,65,970
+Malaysian Grand Prix,15.0,971.0,2017-10-01,60,971
+Japanese Grand Prix,16.0,972.0,2017-10-08,53,972
+United States Grand Prix,17.0,973.0,2017-10-22,69,973
+Mexican Grand Prix,18.0,974.0,2017-10-29,23,974
+Brazilian Grand Prix,19.0,975.0,2017-11-12,37,975
+Abu Dhabi Grand Prix,20.0,976.0,2017-11-26,66,976
+Australian Grand Prix,1.0,977.0,2018-03-25,59,977
+Bahrain Grand Prix,2.0,978.0,2018-04-08,61,978
+Chinese Grand Prix,3.0,979.0,2018-04-15,62,979
+Azerbaijan Grand Prix,4.0,980.0,2018-04-29,71,980
+Spanish Grand Prix,5.0,981.0,2018-05-13,56,981
+Monaco Grand Prix,6.0,982.0,2018-05-27,2,982
+Canadian Grand Prix,7.0,983.0,2018-06-10,44,983
+French Grand Prix,8.0,984.0,2018-06-24,35,984
+Austrian Grand Prix,9.0,985.0,2018-07-01,34,985
+British Grand Prix,10.0,986.0,2018-07-08,1,986
+German Grand Prix,11.0,987.0,2018-07-22,33,987
+Hungarian Grand Prix,12.0,988.0,2018-07-29,52,988
+Belgian Grand Prix,13.0,989.0,2018-08-26,5,989
+Italian Grand Prix,14.0,990.0,2018-09-02,7,990
+Singapore Grand Prix,15.0,991.0,2018-09-16,65,991
+Russian Grand Prix,16.0,992.0,2018-09-30,70,992
+Japanese Grand Prix,17.0,993.0,2018-10-07,53,993
+United States Grand Prix,18.0,994.0,2018-10-21,69,994
+Mexican Grand Prix,19.0,995.0,2018-10-28,23,995
+Brazilian Grand Prix,20.0,996.0,2018-11-11,37,996
+Abu Dhabi Grand Prix,21.0,997.0,2018-11-25,66,997
+Australian Grand Prix,1.0,998.0,2019-03-17,59,998
+Bahrain Grand Prix,2.0,999.0,2019-03-31,61,999
+Chinese Grand Prix,3.0,1000.0,2019-04-14,62,1000
+Azerbaijan Grand Prix,4.0,1001.0,2019-04-28,71,1001
+Spanish Grand Prix,5.0,1002.0,2019-05-12,56,1002
+Monaco Grand Prix,6.0,1003.0,2019-05-26,2,1003
+Canadian Grand Prix,7.0,1004.0,2019-06-09,44,1004
+French Grand Prix,8.0,1005.0,2019-06-23,35,1005
+Austrian Grand Prix,9.0,1006.0,2019-06-30,34,1006
+British Grand Prix,10.0,1007.0,2019-07-14,1,1007
+German Grand Prix,11.0,1008.0,2019-07-28,33,1008
+Hungarian Grand Prix,12.0,1009.0,2019-08-04,52,1009
+Belgian Grand Prix,13.0,1010.0,2019-09-01,5,1010
+Italian Grand Prix,14.0,1011.0,2019-09-08,7,1011
+Singapore Grand Prix,15.0,1012.0,2019-09-22,65,1012
+Russian Grand Prix,16.0,1013.0,2019-09-29,70,1013
+Japanese Grand Prix,17.0,1014.0,2019-10-13,53,1014
+Mexican Grand Prix,18.0,1015.0,2019-10-27,23,1015
+United States Grand Prix,19.0,1016.0,2019-11-03,69,1016
+Brazilian Grand Prix,20.0,1017.0,2019-11-17,37,1017
+Abu Dhabi Grand Prix,21.0,1018.0,2019-12-01,66,1018
+Austrian Grand Prix,1.0,1019.0,2020-07-05,34,1019
+Styrian Grand Prix,2.0,1020.0,2020-07-12,34,1020
+Hungarian Grand Prix,3.0,1021.0,2020-07-19,52,1021
+British Grand Prix,4.0,1022.0,2020-08-02,1,1022
+70th Anniversary Grand Prix,5.0,1023.0,2020-08-09,1,1023
+Spanish Grand Prix,6.0,1024.0,2020-08-16,56,1024
+Belgian Grand Prix,7.0,1025.0,2020-08-30,5,1025
+Italian Grand Prix,8.0,1026.0,2020-09-06,7,1026
+Tuscan Grand Prix,9.0,1027.0,2020-09-13,72,1027
+Russian Grand Prix,10.0,1028.0,2020-09-27,70,1028
+Eifel Grand Prix,11.0,1029.0,2020-10-11,8,1029
+Portuguese Grand Prix,12.0,1030.0,2020-10-25,73,1030
+Emilia Romagna Grand Prix,13.0,1031.0,2020-11-01,45,1031
+Turkish Grand Prix,14.0,1032.0,2020-11-15,63,1032
+Bahrain Grand Prix,15.0,1033.0,2020-11-29,61,1033
+Sakhir Grand Prix,16.0,1034.0,2020-12-06,61,1034
+Abu Dhabi Grand Prix,17.0,1035.0,2020-12-13,66,1035
+Bahrain Grand Prix,1.0,1036.0,2021-03-28,61,1036
+Emilia Romagna Grand Prix,2.0,1037.0,2021-04-18,45,1037
+Portuguese Grand Prix,3.0,1038.0,2021-05-02,73,1038
+Spanish Grand Prix,4.0,1039.0,2021-05-09,56,1039
+Monaco Grand Prix,5.0,1040.0,2021-05-23,2,1040
+Azerbaijan Grand Prix,6.0,1041.0,2021-06-06,71,1041
+French Grand Prix,7.0,1042.0,2021-06-20,35,1042
+Styrian Grand Prix,8.0,1043.0,2021-06-27,34,1043
+Austrian Grand Prix,9.0,1044.0,2021-07-04,34,1044
+British Grand Prix,10.0,1045.0,2021-07-18,1,1045
+Hungarian Grand Prix,11.0,1046.0,2021-08-01,52,1046
+Belgian Grand Prix,12.0,1047.0,2021-08-29,5,1047
+Dutch Grand Prix,13.0,1048.0,2021-09-05,11,1048
+Italian Grand Prix,14.0,1049.0,2021-09-12,7,1049
+Russian Grand Prix,15.0,1050.0,2021-09-26,70,1050
+Turkish Grand Prix,16.0,1051.0,2021-10-10,63,1051
+United States Grand Prix,17.0,1052.0,2021-10-24,69,1052
+Mexico City Grand Prix,18.0,1053.0,2021-11-07,23,1053
+São Paulo Grand Prix,19.0,1054.0,2021-11-14,37,1054
+Qatar Grand Prix,20.0,1055.0,2021-11-21,74,1055
+Saudi Arabian Grand Prix,21.0,1056.0,2021-12-05,75,1056
+Abu Dhabi Grand Prix,22.0,1057.0,2021-12-12,66,1057
+Bahrain Grand Prix,1.0,1058.0,2022-03-20,61,1058
+Saudi Arabian Grand Prix,2.0,1059.0,2022-03-27,75,1059
+Australian Grand Prix,3.0,1060.0,2022-04-10,59,1060
+Emilia Romagna Grand Prix,4.0,1061.0,2022-04-24,45,1061
+Miami Grand Prix,5.0,1062.0,2022-05-08,76,1062
+Spanish Grand Prix,6.0,1063.0,2022-05-22,56,1063
+Monaco Grand Prix,7.0,1064.0,2022-05-29,2,1064
+Azerbaijan Grand Prix,8.0,1065.0,2022-06-12,71,1065
+Canadian Grand Prix,9.0,1066.0,2022-06-19,44,1066
+British Grand Prix,10.0,1067.0,2022-07-03,1,1067
+Austrian Grand Prix,11.0,1068.0,2022-07-10,34,1068
+French Grand Prix,12.0,1069.0,2022-07-24,35,1069
+Hungarian Grand Prix,13.0,1070.0,2022-07-31,52,1070
+Belgian Grand Prix,14.0,1071.0,2022-08-28,5,1071
+Dutch Grand Prix,15.0,1072.0,2022-09-04,11,1072
+Italian Grand Prix,16.0,1073.0,2022-09-11,7,1073
+Singapore Grand Prix,17.0,1074.0,2022-10-02,65,1074
+Japanese Grand Prix,18.0,1075.0,2022-10-09,53,1075
+United States Grand Prix,19.0,1076.0,2022-10-23,69,1076
+Mexico City Grand Prix,20.0,1077.0,2022-10-30,23,1077
+São Paulo Grand Prix,21.0,1078.0,2022-11-13,37,1078
+Abu Dhabi Grand Prix,22.0,1079.0,2022-11-20,66,1079
+Bahrain Grand Prix,1.0,1080.0,2023-03-05,61,1080
+Saudi Arabian Grand Prix,2.0,1081.0,2023-03-19,75,1081
+Australian Grand Prix,3.0,1082.0,2023-04-02,59,1082
+Azerbaijan Grand Prix,4.0,1083.0,2023-04-30,71,1083
+Miami Grand Prix,5.0,1084.0,2023-05-07,76,1084
+Monaco Grand Prix,6.0,1085.0,2023-05-28,2,1085
+Spanish Grand Prix,7.0,1086.0,2023-06-04,56,1086
+Canadian Grand Prix,8.0,1087.0,2023-06-18,44,1087
+Austrian Grand Prix,9.0,1088.0,2023-07-02,34,1088
+British Grand Prix,10.0,1089.0,2023-07-09,1,1089
+Hungarian Grand Prix,11.0,1090.0,2023-07-23,52,1090
+Belgian Grand Prix,12.0,1091.0,2023-07-30,5,1091
+Dutch Grand Prix,13.0,1092.0,2023-08-27,11,1092
+Italian Grand Prix,14.0,1093.0,2023-09-03,7,1093
+Singapore Grand Prix,15.0,1094.0,2023-09-17,65,1094
+Japanese Grand Prix,16.0,1095.0,2023-09-24,53,1095
+Qatar Grand Prix,17.0,1096.0,2023-10-08,74,1096
+United States Grand Prix,18.0,1097.0,2023-10-22,69,1097
+Mexico City Grand Prix,19.0,1098.0,2023-10-29,23,1098
+São Paulo Grand Prix,20.0,1099.0,2023-11-05,37,1099
+Las Vegas Grand Prix,21.0,1100.0,2023-11-19,77,1100
+Abu Dhabi Grand Prix,22.0,1101.0,2023-11-26,66,1101
+Bahrain Grand Prix,1.0,1102.0,2024-03-02,61,1102
+Saudi Arabian Grand Prix,2.0,1103.0,2024-03-09,75,1103
+Australian Grand Prix,3.0,1104.0,2024-03-24,59,1104
+Japanese Grand Prix,4.0,1105.0,2024-04-07,53,1105
+Chinese Grand Prix,5.0,1106.0,2024-04-21,62,1106
+Miami Grand Prix,6.0,1107.0,2024-05-05,76,1107
+Emilia Romagna Grand Prix,7.0,1108.0,2024-05-19,45,1108
+Monaco Grand Prix,8.0,1109.0,2024-05-26,2,1109
+Canadian Grand Prix,9.0,1110.0,2024-06-09,44,1110
+Spanish Grand Prix,10.0,1111.0,2024-06-23,56,1111
+Austrian Grand Prix,11.0,1112.0,2024-06-30,34,1112
+British Grand Prix,12.0,1113.0,2024-07-07,1,1113
+Hungarian Grand Prix,13.0,1114.0,2024-07-21,52,1114
+Belgian Grand Prix,14.0,1115.0,2024-07-28,5,1115
+Dutch Grand Prix,15.0,1116.0,2024-08-25,11,1116
+Italian Grand Prix,16.0,1117.0,2024-09-01,7,1117
+Azerbaijan Grand Prix,17.0,1118.0,2024-09-15,71,1118
+Singapore Grand Prix,18.0,1119.0,2024-09-22,65,1119
+United States Grand Prix,19.0,1120.0,2024-10-20,69,1120
+Mexico City Grand Prix,20.0,1121.0,2024-10-27,23,1121
+São Paulo Grand Prix,21.0,1122.0,2024-11-03,37,1122
+Las Vegas Grand Prix,22.0,1123.0,2024-11-23,77,1123
+Qatar Grand Prix,23.0,1124.0,2024-12-01,74,1124
+Abu Dhabi Grand Prix,24.0,1125.0,2024-12-08,66,1125
+Australian Grand Prix,1.0,1126.0,2025-03-16,59,1126
+Chinese Grand Prix,2.0,1127.0,2025-03-23,62,1127
+Japanese Grand Prix,3.0,1128.0,2025-04-06,53,1128
+Bahrain Grand Prix,4.0,1129.0,2025-04-13,61,1129
+Saudi Arabian Grand Prix,5.0,1130.0,2025-04-20,75,1130
+Miami Grand Prix,6.0,1131.0,2025-05-04,76,1131
+Emilia Romagna Grand Prix,7.0,1132.0,2025-05-18,45,1132
+Monaco Grand Prix,8.0,1133.0,2025-05-25,2,1133
+Spanish Grand Prix,9.0,1134.0,2025-06-01,56,1134
+Canadian Grand Prix,10.0,1135.0,2025-06-15,44,1135
+Austrian Grand Prix,11.0,1136.0,2025-06-29,34,1136
+British Grand Prix,12.0,1137.0,2025-07-06,1,1137
+Belgian Grand Prix,13.0,1138.0,2025-07-27,5,1138
+Hungarian Grand Prix,14.0,1139.0,2025-08-03,52,1139
+Dutch Grand Prix,15.0,1140.0,2025-08-31,11,1140
+Italian Grand Prix,16.0,1141.0,2025-09-07,7,1141
+Azerbaijan Grand Prix,17.0,1142.0,2025-09-21,71,1142
+Singapore Grand Prix,18.0,1143.0,2025-10-05,65,1143
+United States Grand Prix,19.0,1144.0,2025-10-19,69,1144
+Mexico City Grand Prix,20.0,1145.0,2025-10-26,23,1145
+São Paulo Grand Prix,21.0,1146.0,2025-11-09,37,1146
+Las Vegas Grand Prix,22.0,1147.0,2025-11-22,77,1147
+Qatar Grand Prix,23.0,1148.0,2025-11-30,74,1148
+Abu Dhabi Grand Prix,24.0,1149.0,2025-12-07,66,1149
+Australian Grand Prix,1.0,1150.0,2026-03-08,59,1174
+Chinese Grand Prix,2.0,1151.0,2026-03-15,62,1175
+Japanese Grand Prix,3.0,1152.0,2026-03-29,53,1176
+Miami Grand Prix,4.0,1153.0,2026-05-03,76,1179
+Canadian Grand Prix,5.0,1154.0,2026-05-24,44,1180
+Monaco Grand Prix,6.0,1155.0,2026-06-07,2,1181
+Barcelona Grand Prix,7.0,1156.0,2026-06-14,56,1182
+Austrian Grand Prix,8.0,1157.0,2026-06-28,34,1183
+British Grand Prix,9.0,1158.0,2026-07-05,1,1184
+Belgian Grand Prix,10.0,1159.0,2026-07-19,5,1185
+Hungarian Grand Prix,11.0,1160.0,2026-07-26,52,1186
+Dutch Grand Prix,12.0,1161.0,2026-08-23,11,1187
+Italian Grand Prix,13.0,1162.0,2026-09-06,7,1188
+Spanish Grand Prix,14.0,1163.0,2026-09-13,79,1189
+Azerbaijan Grand Prix,15.0,1164.0,2026-09-26,71,1190
+Bahrain Grand Prix in Malaysia,16.0,1165.0,2026-10-04,60,1177
+Singapore Grand Prix,17.0,1166.0,2026-10-11,65,1191
+United States Grand Prix,18.0,1167.0,2026-10-25,69,1192
+Mexico City Grand Prix,19.0,1168.0,2026-11-01,23,1193
+Brazilian Grand Prix,20.0,1169.0,2026-11-08,37,1194
+Las Vegas Grand Prix,21.0,1170.0,2026-11-22,77,1195
+Qatar Grand Prix,22.0,1171.0,2026-11-29,74,1196
+Abu Dhabi Grand Prix,23.0,1172.0,2026-12-06,66,1197

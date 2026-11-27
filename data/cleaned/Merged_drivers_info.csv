@@ -1,4 +1,4 @@
-drivers_forename,drivers_surname,drivers_date_of_birth,drivers_nationality,drivers_country_code,teams_name,teams_nationality,teams_country_code,season_year,driver_id,season_id,team_id,season_championship_system_id
+drivers_forename,drivers_surname,drivers_date_of_birth,drivers_nationality,drivers_country_code,teams_name,teams_nationality,teams_country_code,season_year,driver_id,season_id,team_id,championship_system_id
 Nino,Farina,1906-10-30,Italian,ITA,Alfa Romeo,Swiss,CHE,1950,1,1,1,1
 Luigi,Fagioli,1898-06-09,Italian,ITA,Alfa Romeo,Swiss,CHE,1950,2,1,1,1
 Reg,Parnell,1911-07-02,British,GBR,Alfa Romeo,Swiss,CHE,1950,3,1,1,1
