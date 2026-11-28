@@ -41,6 +41,7 @@ select = ["E", "W", "F", "I", "N"]
 
 [dependency-groups]
 dev = [
+    "pandas>=3.1.1",
     "pytest==9.2.0",
     "ruff==0.17.6",
 ]
