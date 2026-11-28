@@ -26,13 +26,13 @@ Every task and idea for the project, grouped by course requirement. Day-to-day s
 ## Requirement 2: package structure
 
 - [x] Choose the package name (`f1_championship_analyzer`)
-- [x] `pyproject.toml`, `src/f1_championship_analyzer/`, `tests/`, `f1cli` entry point
-- [x] PEP 8 check (`ruff`) and shared tool versions (`uv.lock`)
+- [x] `pyproject.toml`, root `main.py`, `src/f1_championship_analyzer/`, `tests/`, `f1cli` entry point
+- [x] PEP 8 checks (`ruff` and `pycodestyle`, 79-char line limit) and shared tool versions (`uv.lock`)
 
 ## Requirement 3: `csv` and `argparse`
 
 - [ ] CSV loader with missing values (empty fields) and type conversion
-- [ ] CLI commands: standings, race, driver, compare, fastest laps
+- [ ] CLI commands (`argparse` flags with `required=True` where needed, `choices=[...]` from the data, `help=` on every option, English output; optional prompts never replace flags): standings, race, driver, compare, fastest laps
 
 ## Requirement 4: object-oriented design
 

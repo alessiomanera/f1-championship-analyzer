@@ -35,13 +35,15 @@ git clone https://github.com/alessiomanera/f1-championship-analyzer.git
 cd f1-championship-analyzer
 uv sync
 uv run f1cli --help
+uv run python main.py --help
 ```
 
-Run the checks with `uv run pytest`, `uv run ruff check .` and `uv run ruff format --check .`.
+Run the checks with `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .` and `uv run python -m pycodestyle main.py src tests`.
 
 ## Project layout
 
 ```text
+main.py                         thin root entry point calling f1cli
 src/f1_championship_analyzer/   the package (cli.py holds the f1cli command)
 tests/                          pytest tests
 data/                           CSV data (added with the data issues)

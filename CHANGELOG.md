@@ -4,8 +4,14 @@ All notable changes to this project are recorded here. The format follows [Keep 
 
 ## [Unreleased]
 
+### Added
+
+- Root `main.py` entry point calling `f1_championship_analyzer.cli.main()` so `python main.py -h` runs the CLI (#18).
+- `pycodestyle` dev dependency and CI check across `main.py`, `src/` and `tests/` (#18).
+
 ### Changed
 
+- Aligned `ruff` to PEP 8's 79-character line limit (`line-length = 79` in `pyproject.toml`), reformatted the package and tests, and documented the Task 2 `argparse` checklist in `CONTRIBUTING.md`, `README.md` and `ROADMAP.md` (#18).
 - Merge rules enforced by GitHub (#16): `testing` accepts only squash merges and `main` only merge commits; merged branches are deleted from GitHub automatically. `CONTRIBUTING.md` explains the local clean-up after a squash merge and the optional auto-merge.
 - `AGENTS.md` (#16): new "Coding assistants" rules (assistants explain, members type every command and write their own code); the project status section is replaced by a "Where things live" list pointing to `CONTRIBUTING.md`, `README.md`, `ROADMAP.md`, `CHANGELOG.md` and the project board.
 

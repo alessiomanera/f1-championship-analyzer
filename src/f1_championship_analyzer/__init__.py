@@ -1,7 +1,7 @@
 """Formula 1 Championship and Telemetry Analyzer.
 
-Loads Formula 1 race history from local CSV files and answers questions about
-races, drivers, constructors and championship standings.
+Loads Formula 1 race history from local CSV files and answers
+questions about races, drivers, constructors and championship standings.
 """
 
 from importlib.metadata import version
