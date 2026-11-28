@@ -31,7 +31,7 @@ uv run pytest                # tests
 
 CI runs the same three checks on Windows, macOS and Linux for every pull request; a red check blocks the merge.
 
-To add a package: `uv add <name>` (or `uv add --dev <name>` for a development tool), then commit both `pyproject.toml` and `uv.lock`. The core code stays standard library only (see [AGENTS.md](AGENTS.md)).
+To stay in sync after pulling or switching branches, run `uv sync --locked` (never use `pip` inside `.venv`). To add a package: `uv add --dev <name>` for scripts, data prep or tests, or `uv add <name>` only when `src/` imports it at runtime, then commit both `pyproject.toml` and `uv.lock` (see [AGENTS.md](AGENTS.md)).
 
 ## Branches
 
@@ -106,5 +106,5 @@ Types: `feat`, `fix`, `test`, `docs`, `refactor`, `chore`. Commits carry your ow
 
 - PEP 8, with a docstring on every public module, class and function.
 - Type hints on function signatures.
-- Core code uses only the Python standard library (see [AGENTS.md](AGENTS.md)).
+- Core code (`csv`, `argparse`) prefers the Python standard library; third-party packages are managed with `uv` (see [AGENTS.md](AGENTS.md)).
 - Every pull request that changes behaviour adds or updates tests and a line in `CHANGELOG.md`.
