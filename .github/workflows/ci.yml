@@ -32,3 +32,15 @@ jobs:
         run: uv run ruff format --check .
       - name: Tests
         run: uv run pytest
+
+  require-testing-base:
+    name: require-testing-base
+    if: github.event_name == 'pull_request' && github.base_ref == 'main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require PRs into main to come from testing
+        run: |
+          if [ "${{ github.head_ref }}" != "testing" ]; then
+            echo "Error: PRs into main must come from testing (got ${{ github.head_ref }})."
+            exit 1
+          fi
