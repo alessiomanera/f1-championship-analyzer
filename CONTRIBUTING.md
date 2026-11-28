@@ -19,17 +19,18 @@ uv sync                 # installs Python 3.12, the package and the pinned tools
 uv run f1cli --help     # check that it works
 ```
 
-`uv` reads `.python-version` and `uv.lock`, so every laptop and CI use exactly the same Python, `pytest` and `ruff` versions. Open the folder in VS Code and accept the recommended extensions (GitHub Pull Requests, Python, Ruff).
+`uv` reads `.python-version` and `uv.lock`, so every laptop and CI use exactly the same Python, `pytest`, `ruff` and `pycodestyle` versions. Open the folder in VS Code and accept the recommended extensions (GitHub Pull Requests, Python, Ruff).
 
 ## Checks before every pull request
 
 ```bash
-uv run ruff check .          # PEP 8 and common errors
-uv run ruff format --check . # formatting (run without --check to fix it)
-uv run pytest                # tests
+uv run ruff check .                             # lint, imports and naming
+uv run ruff format --check .                    # formatting (run without --check to fix it)
+uv run python -m pycodestyle main.py src tests  # PEP 8 style (79-char limit)
+uv run pytest                                   # tests
 ```
 
-CI runs the same three checks on Windows, macOS and Linux for every pull request; a red check blocks the merge.
+CI runs the same four checks on Windows, macOS and Linux for every pull request; a red check blocks the merge.
 
 To stay in sync after pulling or switching branches, run `uv sync --locked` (never use `pip` inside `.venv`). To add a package: `uv add --dev <name>` for scripts, data prep or tests, or `uv add <name>` only when `src/` imports it at runtime, then commit both `pyproject.toml` and `uv.lock` (see [AGENTS.md](AGENTS.md)).
 
@@ -104,7 +105,7 @@ Types: `feat`, `fix`, `test`, `docs`, `refactor`, `chore`. Commits carry your ow
 
 ## Code style
 
-- PEP 8, with a docstring on every public module, class and function.
+- PEP 8 (max 79 characters per line, 72 for docstrings and comments), with a docstring on every public module, class and function.
 - Type hints on function signatures.
 - Core code (`csv`, `argparse`) prefers the Python standard library; third-party packages are managed with `uv` (see [AGENTS.md](AGENTS.md)).
 - Every pull request that changes behaviour adds or updates tests and a line in `CHANGELOG.md`.

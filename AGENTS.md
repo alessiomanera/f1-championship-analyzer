@@ -30,6 +30,7 @@ The course asks for little code that applies each week's technique well. Prefer 
 - **Authorship:** commits carry the real name of the member who made them, with no AI co-author trailers.
 - **Personal data:** never commit student IDs, email addresses, tokens or private document links.
 - **Writing style:** punctuate with commas, semicolons, colons, full stops, parentheses or line breaks; never use the em dash character in any file, commit message or pull request.
+- **English only:** write all code, comments, docstrings, CLI text, documentation, issues, pull requests and commit messages in English.
 - **Docs move with code:** a change that alters behaviour updates `README.md` and adds a line to `CHANGELOG.md` under `Unreleased`.
 - **Shared Google Doc in sync:** whoever changes how we work updates the shared team Google Doc the same day (main tabs: `REFERENCE`, `STEPS TO FOLLOW`, `DECISIONS`, `Team meeting brief`, `Formula 1 Project Plan`). Every new decision and the reason for it goes into `DECISIONS`. If the doc and this repository disagree, the repository wins.
 

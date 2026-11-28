@@ -1,7 +1,8 @@
 """Command-line interface for the ``f1cli`` command.
 
-The skeleton only offers ``--help`` and ``--version``; each feature adds its own
-subcommand to :func:`build_parser` in its own pull request.
+The skeleton only offers ``--help`` and ``--version``; each feature
+adds its own subcommand to :func:`build_parser` in its own
+pull request.
 """
 
 import argparse
@@ -16,7 +17,9 @@ def build_parser() -> argparse.ArgumentParser:
         prog="f1cli",
         description="Analyse Formula 1 championships from local CSV data.",
     )
-    parser.add_argument("--version", action="version", version=f"%(prog)s {__version__}")
+    parser.add_argument(
+        "--version", action="version", version=f"%(prog)s {__version__}"
+    )
     return parser
 
 

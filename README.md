@@ -35,19 +35,33 @@ git clone https://github.com/alessiomanera/f1-championship-analyzer.git
 cd f1-championship-analyzer
 uv sync
 uv run f1cli --help
+uv run python main.py --help
 ```
 
-Run the checks with `uv run pytest`, `uv run ruff check .` and `uv run ruff format --check .`.
+Run the checks with `uv run pytest`, `uv run ruff check .`, `uv run ruff format --check .` and `uv run python -m pycodestyle main.py src tests`.
 
 ## Project layout
 
 ```text
+main.py                         thin root entry point calling f1cli
 src/f1_championship_analyzer/   the package (cli.py holds the f1cli command)
 tests/                          pytest tests
 data/                           CSV data (added with the data issues)
 pyproject.toml                  project metadata, tool settings, pinned dev tools
 uv.lock                         exact versions of every tool, shared by the team and CI
 ```
+
+### How the package and entry points fit together
+
+All three ways to launch the CLI call the same `main()` function in `src/f1_championship_analyzer/cli.py`:
+
+| File or command | Purpose | How it runs |
+| --- | --- | --- |
+| `src/f1_championship_analyzer/__init__.py` | Marks the folder as a Python package and exposes `__version__` from `pyproject.toml` | `import f1_championship_analyzer` |
+| `src/f1_championship_analyzer/cli.py` | Defines `build_parser()` and `main()` for all CLI subcommands and flags | Imported by all entry points |
+| `src/f1_championship_analyzer/__main__.py` | Standard Python hook for running an installed package as a module from any directory | `uv run python -m f1_championship_analyzer` |
+| `main.py` | Thin top-level script for running directly from the repository root | `uv run python main.py -h` |
+| `f1cli` (`[project.scripts]`) | Installed console command registered in `pyproject.toml` | `uv run f1cli -h` |
 
 ## Data
 
