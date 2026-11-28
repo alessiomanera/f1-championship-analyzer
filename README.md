@@ -51,6 +51,18 @@ pyproject.toml                  project metadata, tool settings, pinned dev tool
 uv.lock                         exact versions of every tool, shared by the team and CI
 ```
 
+### How the package and entry points fit together
+
+All three ways to launch the CLI call the same `main()` function in `src/f1_championship_analyzer/cli.py`:
+
+| File or command | Purpose | How it runs |
+| --- | --- | --- |
+| `src/f1_championship_analyzer/__init__.py` | Marks the folder as a Python package and exposes `__version__` from `pyproject.toml` | `import f1_championship_analyzer` |
+| `src/f1_championship_analyzer/cli.py` | Defines `build_parser()` and `main()` for all CLI subcommands and flags | Imported by all entry points |
+| `src/f1_championship_analyzer/__main__.py` | Standard Python hook for running an installed package as a module from any directory | `uv run python -m f1_championship_analyzer` |
+| `main.py` | Thin top-level script for running directly from the repository root | `uv run python main.py -h` |
+| `f1cli` (`[project.scripts]`) | Installed console command registered in `pyproject.toml` | `uv run f1cli -h` |
+
 ## Data
 
 The tool will read relational CSV files stored in `data/`, so it runs fully offline. The data comes from **[Jolpica-F1](https://github.com/jolpica/jolpica-f1)**, the open-source successor to the Ergast Motor Racing database, which covers every championship season from 1950, with lap times and pit stops for recent seasons.
